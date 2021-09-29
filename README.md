@@ -3,6 +3,6 @@ Implementation of an incremental Voronoi algorithm. Continuation of assignment 1
 
 Also
 
-50+ hours of work just to produce these Voronoi diagrams
+50+ hours of work (Assignment 1 + 2 combined) just to produce these Voronoi diagrams
 
 massive bruh moment
