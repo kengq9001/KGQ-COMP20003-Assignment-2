@@ -1,0 +1,2990 @@
+Number of vertices: 268 + 268 deleted
+Number of faces: 100 + 390 deleted
+Number of edges: 367 + 658 deleted
+Edge 0:
+	Vertices: 0->12, Face: 125, Edge: 0
+	Vertices: 12->0, Face: -1, Edge: 0
+Edge 1:
+	Vertices: 291->489, Face: 475, Edge: 1
+	Vertices: 489->291, Face: -1, Edge: 1
+Edge 2:
+	Vertices: 379->3, Face: 487, Edge: 2
+	Vertices: 3->379, Face: -1, Edge: 2
+Edge 3:
+	Vertices: 124->504, Face: 463, Edge: 3
+	Vertices: 504->124, Face: -1, Edge: 3
+Edge 4:
+	Vertices: 142->148, Face: 1, Edge: 4
+	Vertices: 148->142, Face: 0, Edge: 4
+Edge 5:
+	Vertices: 103->523, Face: 103, Edge: 5
+	Vertices: 523->103, Face: -1, Edge: 5
+Edge 6:
+	Vertices: 3->5, Face: 487, Edge: 6
+	Vertices: 5->3, Face: -1, Edge: 6
+Edge 7:
+	Deleted
+Edge 8:
+	Deleted
+Edge 9:
+	Vertices: 207->323, Face: 202, Edge: 9
+	Vertices: 323->207, Face: -1, Edge: 9
+Edge 10:
+	Deleted
+Edge 11:
+	Vertices: 11->200, Face: 344, Edge: 11
+	Vertices: 200->11, Face: -1, Edge: 11
+Edge 12:
+	Deleted
+Edge 13:
+	Deleted
+Edge 14:
+	Deleted
+Edge 15:
+	Deleted
+Edge 16:
+	Vertices: 8->112, Face: 344, Edge: 16
+	Vertices: 112->8, Face: -1, Edge: 16
+Edge 17:
+	Deleted
+Edge 18:
+	Vertices: 389->4, Face: 418, Edge: 18
+	Vertices: 4->389, Face: -1, Edge: 18
+Edge 19:
+	Deleted
+Edge 20:
+	Deleted
+Edge 21:
+	Deleted
+Edge 22:
+	Deleted
+Edge 23:
+	Deleted
+Edge 24:
+	Deleted
+Edge 25:
+	Vertices: 2->16, Face: 344, Edge: 25
+	Vertices: 16->2, Face: -1, Edge: 25
+Edge 26:
+	Deleted
+Edge 27:
+	Vertices: 17->11, Face: 344, Edge: 27
+	Vertices: 11->17, Face: -1, Edge: 27
+Edge 28:
+	Vertices: 172->90, Face: 11, Edge: 28
+	Vertices: 90->172, Face: 7, Edge: 28
+Edge 29:
+	Deleted
+Edge 30:
+	Deleted
+Edge 31:
+	Deleted
+Edge 32:
+	Deleted
+Edge 33:
+	Deleted
+Edge 34:
+	Deleted
+Edge 35:
+	Deleted
+Edge 36:
+	Deleted
+Edge 37:
+	Deleted
+Edge 38:
+	Vertices: 428->109, Face: 16, Edge: 38
+	Vertices: 109->428, Face: 11, Edge: 38
+Edge 39:
+	Deleted
+Edge 40:
+	Deleted
+Edge 41:
+	Deleted
+Edge 42:
+	Deleted
+Edge 43:
+	Deleted
+Edge 44:
+	Deleted
+Edge 45:
+	Deleted
+Edge 46:
+	Deleted
+Edge 47:
+	Deleted
+Edge 48:
+	Deleted
+Edge 49:
+	Deleted
+Edge 50:
+	Deleted
+Edge 51:
+	Deleted
+Edge 52:
+	Deleted
+Edge 53:
+	Deleted
+Edge 54:
+	Deleted
+Edge 55:
+	Deleted
+Edge 56:
+	Deleted
+Edge 57:
+	Deleted
+Edge 58:
+	Deleted
+Edge 59:
+	Deleted
+Edge 60:
+	Deleted
+Edge 61:
+	Deleted
+Edge 62:
+	Deleted
+Edge 63:
+	Deleted
+Edge 64:
+	Deleted
+Edge 65:
+	Deleted
+Edge 66:
+	Deleted
+Edge 67:
+	Deleted
+Edge 68:
+	Deleted
+Edge 69:
+	Deleted
+Edge 70:
+	Deleted
+Edge 71:
+	Deleted
+Edge 72:
+	Deleted
+Edge 73:
+	Deleted
+Edge 74:
+	Deleted
+Edge 75:
+	Deleted
+Edge 76:
+	Deleted
+Edge 77:
+	Deleted
+Edge 78:
+	Vertices: 195->73, Face: 21, Edge: 78
+	Vertices: 73->195, Face: 36, Edge: 78
+Edge 79:
+	Deleted
+Edge 80:
+	Deleted
+Edge 81:
+	Deleted
+Edge 82:
+	Deleted
+Edge 83:
+	Deleted
+Edge 84:
+	Deleted
+Edge 85:
+	Deleted
+Edge 86:
+	Vertices: 7->237, Face: 286, Edge: 86
+	Vertices: 237->7, Face: -1, Edge: 86
+Edge 87:
+	Deleted
+Edge 88:
+	Vertices: 322->7, Face: 286, Edge: 88
+	Vertices: 7->322, Face: -1, Edge: 88
+Edge 89:
+	Deleted
+Edge 90:
+	Deleted
+Edge 91:
+	Deleted
+Edge 92:
+	Deleted
+Edge 93:
+	Deleted
+Edge 94:
+	Deleted
+Edge 95:
+	Deleted
+Edge 96:
+	Deleted
+Edge 97:
+	Deleted
+Edge 98:
+	Deleted
+Edge 99:
+	Vertices: 72->275, Face: 46, Edge: 99
+	Vertices: 275->72, Face: 36, Edge: 99
+Edge 100:
+	Deleted
+Edge 101:
+	Deleted
+Edge 102:
+	Deleted
+Edge 103:
+	Deleted
+Edge 104:
+	Vertices: 156->120, Face: 26, Edge: 104
+	Vertices: 120->156, Face: 46, Edge: 104
+Edge 105:
+	Deleted
+Edge 106:
+	Deleted
+Edge 107:
+	Deleted
+Edge 108:
+	Deleted
+Edge 109:
+	Deleted
+Edge 110:
+	Deleted
+Edge 111:
+	Vertices: 121->96, Face: 26, Edge: 111
+	Vertices: 96->121, Face: 52, Edge: 111
+Edge 112:
+	Deleted
+Edge 113:
+	Deleted
+Edge 114:
+	Deleted
+Edge 115:
+	Deleted
+Edge 116:
+	Deleted
+Edge 117:
+	Deleted
+Edge 118:
+	Deleted
+Edge 119:
+	Deleted
+Edge 120:
+	Deleted
+Edge 121:
+	Vertices: 433->217, Face: 57, Edge: 121
+	Vertices: 217->433, Face: 0, Edge: 121
+Edge 122:
+	Deleted
+Edge 123:
+	Deleted
+Edge 124:
+	Deleted
+Edge 125:
+	Vertices: 140->386, Face: 123, Edge: 125
+	Vertices: 386->140, Face: -1, Edge: 125
+Edge 126:
+	Deleted
+Edge 127:
+	Vertices: 68->316, Face: 293, Edge: 127
+	Vertices: 316->68, Face: -1, Edge: 127
+Edge 128:
+	Deleted
+Edge 129:
+	Deleted
+Edge 130:
+	Deleted
+Edge 131:
+	Deleted
+Edge 132:
+	Vertices: 157->72, Face: 46, Edge: 132
+	Vertices: 72->157, Face: 62, Edge: 132
+Edge 133:
+	Deleted
+Edge 134:
+	Deleted
+Edge 135:
+	Vertices: 72->73, Face: 36, Edge: 135
+	Vertices: 73->72, Face: 62, Edge: 135
+Edge 136:
+	Deleted
+Edge 137:
+	Vertices: 158->73, Face: 62, Edge: 137
+	Vertices: 73->158, Face: 21, Edge: 137
+Edge 138:
+	Deleted
+Edge 139:
+	Deleted
+Edge 140:
+	Vertices: 168->80, Face: 31, Edge: 140
+	Vertices: 80->168, Face: 66, Edge: 140
+Edge 141:
+	Deleted
+Edge 142:
+	Deleted
+Edge 143:
+	Deleted
+Edge 144:
+	Deleted
+Edge 145:
+	Deleted
+Edge 146:
+	Deleted
+Edge 147:
+	Vertices: 169->184, Face: 66, Edge: 147
+	Vertices: 184->169, Face: 16, Edge: 147
+Edge 148:
+	Vertices: 185->80, Face: 66, Edge: 148
+	Vertices: 80->185, Face: 70, Edge: 148
+Edge 149:
+	Deleted
+Edge 150:
+	Deleted
+Edge 151:
+	Vertices: 146->80, Face: 70, Edge: 151
+	Vertices: 80->146, Face: 31, Edge: 151
+Edge 152:
+	Deleted
+Edge 153:
+	Deleted
+Edge 154:
+	Deleted
+Edge 155:
+	Deleted
+Edge 156:
+	Deleted
+Edge 157:
+	Deleted
+Edge 158:
+	Deleted
+Edge 159:
+	Deleted
+Edge 160:
+	Deleted
+Edge 161:
+	Vertices: 278->186, Face: 41, Edge: 161
+	Vertices: 186->278, Face: 70, Edge: 161
+Edge 162:
+	Deleted
+Edge 163:
+	Deleted
+Edge 164:
+	Deleted
+Edge 165:
+	Deleted
+Edge 166:
+	Deleted
+Edge 167:
+	Deleted
+Edge 168:
+	Deleted
+Edge 169:
+	Vertices: 133->90, Face: 7, Edge: 169
+	Vertices: 90->133, Face: 77, Edge: 169
+Edge 170:
+	Deleted
+Edge 171:
+	Vertices: 108->90, Face: 77, Edge: 171
+	Vertices: 90->108, Face: 11, Edge: 171
+Edge 172:
+	Deleted
+Edge 173:
+	Deleted
+Edge 174:
+	Deleted
+Edge 175:
+	Deleted
+Edge 176:
+	Vertices: 134->107, Face: 77, Edge: 176
+	Vertices: 107->134, Face: 84, Edge: 176
+Edge 177:
+	Deleted
+Edge 178:
+	Deleted
+Edge 179:
+	Deleted
+Edge 180:
+	Deleted
+Edge 181:
+	Vertices: 106->96, Face: 52, Edge: 181
+	Vertices: 96->106, Face: 84, Edge: 181
+Edge 182:
+	Deleted
+Edge 183:
+	Vertices: 155->96, Face: 84, Edge: 183
+	Vertices: 96->155, Face: 26, Edge: 183
+Edge 184:
+	Deleted
+Edge 185:
+	Deleted
+Edge 186:
+	Deleted
+Edge 187:
+	Deleted
+Edge 188:
+	Deleted
+Edge 189:
+	Vertices: 236->285, Face: 463, Edge: 189
+	Vertices: 285->236, Face: -1, Edge: 189
+Edge 190:
+	Deleted
+Edge 191:
+	Deleted
+Edge 192:
+	Deleted
+Edge 193:
+	Deleted
+Edge 194:
+	Deleted
+Edge 195:
+	Deleted
+Edge 196:
+	Vertices: 459->103, Face: 103, Edge: 196
+	Vertices: 103->459, Face: -1, Edge: 196
+Edge 197:
+	Vertices: 187->117, Face: 41, Edge: 197
+	Vertices: 117->187, Face: 94, Edge: 197
+Edge 198:
+	Deleted
+Edge 199:
+	Deleted
+Edge 200:
+	Vertices: 122->106, Face: 52, Edge: 200
+	Vertices: 106->122, Face: 94, Edge: 200
+Edge 201:
+	Deleted
+Edge 202:
+	Vertices: 106->107, Face: 84, Edge: 202
+	Vertices: 107->106, Face: 94, Edge: 202
+Edge 203:
+	Deleted
+Edge 204:
+	Vertices: 107->108, Face: 77, Edge: 204
+	Vertices: 108->107, Face: 94, Edge: 204
+Edge 205:
+	Deleted
+Edge 206:
+	Vertices: 108->109, Face: 11, Edge: 206
+	Vertices: 109->108, Face: 94, Edge: 206
+Edge 207:
+	Deleted
+Edge 208:
+	Vertices: 188->109, Face: 94, Edge: 208
+	Vertices: 109->188, Face: 16, Edge: 208
+Edge 209:
+	Deleted
+Edge 210:
+	Deleted
+Edge 211:
+	Vertices: 199->244, Face: 100, Edge: 211
+	Vertices: 244->199, Face: -1, Edge: 211
+Edge 212:
+	Deleted
+Edge 213:
+	Vertices: 174->17, Face: 344, Edge: 213
+	Vertices: 17->174, Face: -1, Edge: 213
+Edge 214:
+	Deleted
+Edge 215:
+	Deleted
+Edge 216:
+	Deleted
+Edge 217:
+	Vertices: 114->0, Face: 125, Edge: 217
+	Vertices: 0->114, Face: -1, Edge: 217
+Edge 218:
+	Deleted
+Edge 219:
+	Deleted
+Edge 220:
+	Vertices: 1->343, Face: 475, Edge: 220
+	Vertices: 343->1, Face: -1, Edge: 220
+Edge 221:
+	Vertices: 277->117, Face: 105, Edge: 221
+	Vertices: 117->277, Face: 41, Edge: 221
+Edge 222:
+	Deleted
+Edge 223:
+	Deleted
+Edge 224:
+	Deleted
+Edge 225:
+	Deleted
+Edge 226:
+	Vertices: 276->120, Face: 46, Edge: 226
+	Vertices: 120->276, Face: 105, Edge: 226
+Edge 227:
+	Deleted
+Edge 228:
+	Vertices: 120->121, Face: 26, Edge: 228
+	Vertices: 121->120, Face: 105, Edge: 228
+Edge 229:
+	Deleted
+Edge 230:
+	Vertices: 121->122, Face: 52, Edge: 230
+	Vertices: 122->121, Face: 105, Edge: 230
+Edge 231:
+	Deleted
+Edge 232:
+	Vertices: 122->117, Face: 94, Edge: 232
+	Vertices: 117->122, Face: 105, Edge: 232
+Edge 233:
+	Vertices: 234->218, Face: 111, Edge: 233
+	Vertices: 218->234, Face: 57, Edge: 233
+Edge 234:
+	Deleted
+Edge 235:
+	Vertices: 315->509, Face: 334, Edge: 235
+	Vertices: 509->315, Face: -1, Edge: 235
+Edge 236:
+	Deleted
+Edge 237:
+	Vertices: 125->68, Face: 293, Edge: 237
+	Vertices: 68->125, Face: -1, Edge: 237
+Edge 238:
+	Deleted
+Edge 239:
+	Deleted
+Edge 240:
+	Deleted
+Edge 241:
+	Deleted
+Edge 242:
+	Deleted
+Edge 243:
+	Deleted
+Edge 244:
+	Vertices: 329->159, Face: 116, Edge: 244
+	Vertices: 159->329, Face: 21, Edge: 244
+Edge 245:
+	Deleted
+Edge 246:
+	Deleted
+Edge 247:
+	Deleted
+Edge 248:
+	Deleted
+Edge 249:
+	Deleted
+Edge 250:
+	Deleted
+Edge 251:
+	Vertices: 133->210, Face: 116, Edge: 251
+	Vertices: 210->133, Face: 7, Edge: 251
+Edge 252:
+	Deleted
+Edge 253:
+	Vertices: 133->134, Face: 77, Edge: 253
+	Vertices: 134->133, Face: 116, Edge: 253
+Edge 254:
+	Deleted
+Edge 255:
+	Vertices: 160->134, Face: 116, Edge: 255
+	Vertices: 134->160, Face: 84, Edge: 255
+Edge 256:
+	Deleted
+Edge 257:
+	Deleted
+Edge 258:
+	Deleted
+Edge 259:
+	Deleted
+Edge 260:
+	Vertices: 67->460, Face: 352, Edge: 260
+	Vertices: 460->67, Face: -1, Edge: 260
+Edge 261:
+	Deleted
+Edge 262:
+	Vertices: 284->114, Face: 125, Edge: 262
+	Vertices: 114->284, Face: -1, Edge: 262
+Edge 263:
+	Vertices: 283->140, Face: 123, Edge: 263
+	Vertices: 140->283, Face: 125, Edge: 263
+Edge 264:
+	Deleted
+Edge 265:
+	Vertices: 12->140, Face: 125, Edge: 265
+	Vertices: 140->12, Face: -1, Edge: 265
+Edge 266:
+	Deleted
+Edge 267:
+	Vertices: 442->138, Face: 463, Edge: 267
+	Vertices: 138->442, Face: -1, Edge: 267
+Edge 268:
+	Vertices: 142->216, Face: 0, Edge: 268
+	Vertices: 216->142, Face: 127, Edge: 268
+Edge 269:
+	Deleted
+Edge 270:
+	Deleted
+Edge 271:
+	Deleted
+Edge 272:
+	Deleted
+Edge 273:
+	Deleted
+Edge 274:
+	Deleted
+Edge 275:
+	Vertices: 222->146, Face: 70, Edge: 275
+	Vertices: 146->222, Face: 127, Edge: 275
+Edge 276:
+	Deleted
+Edge 277:
+	Vertices: 146->161, Face: 31, Edge: 277
+	Vertices: 161->146, Face: 127, Edge: 277
+Edge 278:
+	Deleted
+Edge 279:
+	Vertices: 165->142, Face: 1, Edge: 279
+	Vertices: 142->165, Face: 127, Edge: 279
+Edge 280:
+	Vertices: 425->148, Face: 133, Edge: 280
+	Vertices: 148->425, Face: 1, Edge: 280
+Edge 281:
+	Deleted
+Edge 282:
+	Deleted
+Edge 283:
+	Deleted
+Edge 284:
+	Deleted
+Edge 285:
+	Deleted
+Edge 286:
+	Deleted
+Edge 287:
+	Vertices: 305->176, Face: 133, Edge: 287
+	Vertices: 176->305, Face: 4, Edge: 287
+Edge 288:
+	Deleted
+Edge 289:
+	Deleted
+Edge 290:
+	Deleted
+Edge 291:
+	Deleted
+Edge 292:
+	Deleted
+Edge 293:
+	Vertices: 434->148, Face: 0, Edge: 293
+	Vertices: 148->434, Face: 133, Edge: 293
+Edge 294:
+	Vertices: 155->156, Face: 26, Edge: 294
+	Vertices: 156->155, Face: 140, Edge: 294
+Edge 295:
+	Deleted
+Edge 296:
+	Deleted
+Edge 297:
+	Vertices: 156->157, Face: 46, Edge: 297
+	Vertices: 157->156, Face: 140, Edge: 297
+Edge 298:
+	Deleted
+Edge 299:
+	Vertices: 157->158, Face: 62, Edge: 299
+	Vertices: 158->157, Face: 140, Edge: 299
+Edge 300:
+	Deleted
+Edge 301:
+	Vertices: 158->159, Face: 21, Edge: 301
+	Vertices: 159->158, Face: 140, Edge: 301
+Edge 302:
+	Deleted
+Edge 303:
+	Vertices: 159->160, Face: 116, Edge: 303
+	Vertices: 160->159, Face: 140, Edge: 303
+Edge 304:
+	Deleted
+Edge 305:
+	Vertices: 160->155, Face: 84, Edge: 305
+	Vertices: 155->160, Face: 140, Edge: 305
+Edge 306:
+	Vertices: 167->161, Face: 146, Edge: 306
+	Vertices: 161->167, Face: 31, Edge: 306
+Edge 307:
+	Deleted
+Edge 308:
+	Deleted
+Edge 309:
+	Deleted
+Edge 310:
+	Deleted
+Edge 311:
+	Deleted
+Edge 312:
+	Deleted
+Edge 313:
+	Vertices: 165->166, Face: 146, Edge: 313
+	Vertices: 166->165, Face: 1, Edge: 313
+Edge 314:
+	Deleted
+Edge 315:
+	Vertices: 165->161, Face: 127, Edge: 315
+	Vertices: 161->165, Face: 146, Edge: 315
+Edge 316:
+	Vertices: 166->167, Face: 146, Edge: 316
+	Vertices: 167->166, Face: 151, Edge: 316
+Edge 317:
+	Deleted
+Edge 318:
+	Deleted
+Edge 319:
+	Vertices: 167->168, Face: 31, Edge: 319
+	Vertices: 168->167, Face: 151, Edge: 319
+Edge 320:
+	Deleted
+Edge 321:
+	Vertices: 168->169, Face: 66, Edge: 321
+	Vertices: 169->168, Face: 151, Edge: 321
+Edge 322:
+	Deleted
+Edge 323:
+	Vertices: 427->169, Face: 151, Edge: 323
+	Vertices: 169->427, Face: 16, Edge: 323
+Edge 324:
+	Deleted
+Edge 325:
+	Vertices: 426->166, Face: 1, Edge: 325
+	Vertices: 166->426, Face: 151, Edge: 325
+Edge 326:
+	Vertices: 429->172, Face: 11, Edge: 326
+	Vertices: 172->429, Face: 156, Edge: 326
+Edge 327:
+	Deleted
+Edge 328:
+	Deleted
+Edge 329:
+	Vertices: 483->172, Face: 156, Edge: 329
+	Vertices: 172->483, Face: 7, Edge: 329
+Edge 330:
+	Deleted
+Edge 331:
+	Deleted
+Edge 332:
+	Vertices: 112->174, Face: 344, Edge: 332
+	Vertices: 174->112, Face: -1, Edge: 332
+Edge 333:
+	Vertices: 399->176, Face: 4, Edge: 333
+	Vertices: 176->399, Face: 156, Edge: 333
+Edge 334:
+	Vertices: 175->380, Face: 162, Edge: 334
+	Vertices: 380->175, Face: -1, Edge: 334
+Edge 335:
+	Deleted
+Edge 336:
+	Vertices: 430->176, Face: 156, Edge: 336
+	Vertices: 176->430, Face: 133, Edge: 336
+Edge 337:
+	Deleted
+Edge 338:
+	Deleted
+Edge 339:
+	Deleted
+Edge 340:
+	Deleted
+Edge 341:
+	Deleted
+Edge 342:
+	Deleted
+Edge 343:
+	Deleted
+Edge 344:
+	Deleted
+Edge 345:
+	Deleted
+Edge 346:
+	Deleted
+Edge 347:
+	Vertices: 16->182, Face: 344, Edge: 347
+	Vertices: 182->16, Face: -1, Edge: 347
+Edge 348:
+	Deleted
+Edge 349:
+	Vertices: 422->175, Face: 162, Edge: 349
+	Vertices: 175->422, Face: -1, Edge: 349
+Edge 350:
+	Vertices: 184->185, Face: 66, Edge: 350
+	Vertices: 185->184, Face: 167, Edge: 350
+Edge 351:
+	Deleted
+Edge 352:
+	Deleted
+Edge 353:
+	Vertices: 185->186, Face: 70, Edge: 353
+	Vertices: 186->185, Face: 167, Edge: 353
+Edge 354:
+	Deleted
+Edge 355:
+	Vertices: 186->187, Face: 41, Edge: 355
+	Vertices: 187->186, Face: 167, Edge: 355
+Edge 356:
+	Deleted
+Edge 357:
+	Vertices: 187->188, Face: 94, Edge: 357
+	Vertices: 188->187, Face: 167, Edge: 357
+Edge 358:
+	Deleted
+Edge 359:
+	Vertices: 188->184, Face: 16, Edge: 359
+	Vertices: 184->188, Face: 167, Edge: 359
+Edge 360:
+	Deleted
+Edge 361:
+	Deleted
+Edge 362:
+	Deleted
+Edge 363:
+	Deleted
+Edge 364:
+	Vertices: 183->423, Face: 475, Edge: 364
+	Vertices: 423->183, Face: -1, Edge: 364
+Edge 365:
+	Deleted
+Edge 366:
+	Vertices: 192->116, Face: 475, Edge: 366
+	Vertices: 116->192, Face: -1, Edge: 366
+Edge 367:
+	Deleted
+Edge 368:
+	Deleted
+Edge 369:
+	Vertices: 330->195, Face: 21, Edge: 369
+	Vertices: 195->330, Face: 176, Edge: 369
+Edge 370:
+	Deleted
+Edge 371:
+	Deleted
+Edge 372:
+	Vertices: 267->195, Face: 176, Edge: 372
+	Vertices: 195->267, Face: 36, Edge: 372
+Edge 373:
+	Deleted
+Edge 374:
+	Vertices: 266->258, Face: 2, Edge: 374
+	Vertices: 258->266, Face: 176, Edge: 374
+Edge 375:
+	Deleted
+Edge 376:
+	Deleted
+Edge 377:
+	Vertices: 271->199, Face: 100, Edge: 377
+	Vertices: 199->271, Face: 180, Edge: 377
+Edge 378:
+	Deleted
+Edge 379:
+	Vertices: 533->199, Face: 180, Edge: 379
+	Vertices: 199->533, Face: -1, Edge: 379
+Edge 380:
+	Deleted
+Edge 381:
+	Vertices: 200->2, Face: 344, Edge: 381
+	Vertices: 2->200, Face: -1, Edge: 381
+Edge 382:
+	Deleted
+Edge 383:
+	Deleted
+Edge 384:
+	Deleted
+Edge 385:
+	Deleted
+Edge 386:
+	Deleted
+Edge 387:
+	Deleted
+Edge 388:
+	Vertices: 48->250, Face: 293, Edge: 388
+	Vertices: 250->48, Face: -1, Edge: 388
+Edge 389:
+	Deleted
+Edge 390:
+	Vertices: 243->227, Face: 186, Edge: 390
+	Vertices: 227->243, Face: -1, Edge: 390
+Edge 391:
+	Vertices: 239->223, Face: 182, Edge: 391
+	Vertices: 223->239, Face: 186, Edge: 391
+Edge 392:
+	Deleted
+Edge 393:
+	Vertices: 111->207, Face: 202, Edge: 393
+	Vertices: 207->111, Face: -1, Edge: 393
+Edge 394:
+	Deleted
+Edge 395:
+	Vertices: 208->205, Face: 219, Edge: 395
+	Vertices: 205->208, Face: -1, Edge: 395
+Edge 396:
+	Deleted
+Edge 397:
+	Deleted
+Edge 398:
+	Vertices: 210->328, Face: 116, Edge: 398
+	Vertices: 328->210, Face: 189, Edge: 398
+Edge 399:
+	Deleted
+Edge 400:
+	Deleted
+Edge 401:
+	Deleted
+Edge 402:
+	Deleted
+Edge 403:
+	Deleted
+Edge 404:
+	Deleted
+Edge 405:
+	Deleted
+Edge 406:
+	Deleted
+Edge 407:
+	Deleted
+Edge 408:
+	Deleted
+Edge 409:
+	Vertices: 210->357, Face: 189, Edge: 409
+	Vertices: 357->210, Face: 7, Edge: 409
+Edge 410:
+	Vertices: 216->217, Face: 0, Edge: 410
+	Vertices: 217->216, Face: 195, Edge: 410
+Edge 411:
+	Deleted
+Edge 412:
+	Deleted
+Edge 413:
+	Vertices: 217->218, Face: 57, Edge: 413
+	Vertices: 218->217, Face: 195, Edge: 413
+Edge 414:
+	Deleted
+Edge 415:
+	Vertices: 218->247, Face: 111, Edge: 415
+	Vertices: 247->218, Face: 195, Edge: 415
+Edge 416:
+	Deleted
+Edge 417:
+	Deleted
+Edge 418:
+	Deleted
+Edge 419:
+	Deleted
+Edge 420:
+	Deleted
+Edge 421:
+	Vertices: 279->222, Face: 70, Edge: 421
+	Vertices: 222->279, Face: 195, Edge: 421
+Edge 422:
+	Deleted
+Edge 423:
+	Vertices: 222->216, Face: 127, Edge: 423
+	Vertices: 216->222, Face: 195, Edge: 423
+Edge 424:
+	Vertices: 223->228, Face: 182, Edge: 424
+	Vertices: 228->223, Face: 202, Edge: 424
+Edge 425:
+	Deleted
+Edge 426:
+	Deleted
+Edge 427:
+	Deleted
+Edge 428:
+	Deleted
+Edge 429:
+	Deleted
+Edge 430:
+	Vertices: 204->226, Face: 293, Edge: 430
+	Vertices: 226->204, Face: -1, Edge: 430
+Edge 431:
+	Vertices: 227->223, Face: 186, Edge: 431
+	Vertices: 223->227, Face: 202, Edge: 431
+Edge 432:
+	Vertices: 227->111, Face: 202, Edge: 432
+	Vertices: 111->227, Face: -1, Edge: 432
+Edge 433:
+	Vertices: 238->228, Face: 206, Edge: 433
+	Vertices: 228->238, Face: 182, Edge: 433
+Edge 434:
+	Deleted
+Edge 435:
+	Deleted
+Edge 436:
+	Deleted
+Edge 437:
+	Deleted
+Edge 438:
+	Vertices: 265->241, Face: 206, Edge: 438
+	Vertices: 241->265, Face: 2, Edge: 438
+Edge 439:
+	Deleted
+Edge 440:
+	Deleted
+Edge 441:
+	Deleted
+Edge 442:
+	Deleted
+Edge 443:
+	Deleted
+Edge 444:
+	Vertices: 324->228, Face: 202, Edge: 444
+	Vertices: 228->324, Face: 206, Edge: 444
+Edge 445:
+	Vertices: 355->234, Face: 212, Edge: 445
+	Vertices: 234->355, Face: 57, Edge: 445
+Edge 446:
+	Deleted
+Edge 447:
+	Deleted
+Edge 448:
+	Deleted
+Edge 449:
+	Vertices: 99->236, Face: 463, Edge: 449
+	Vertices: 236->99, Face: -1, Edge: 449
+Edge 450:
+	Vertices: 248->234, Face: 111, Edge: 450
+	Vertices: 234->248, Face: 212, Edge: 450
+Edge 451:
+	Vertices: 237->370, Face: 286, Edge: 451
+	Vertices: 370->237, Face: -1, Edge: 451
+Edge 452:
+	Vertices: 238->239, Face: 182, Edge: 452
+	Vertices: 239->238, Face: 215, Edge: 452
+Edge 453:
+	Deleted
+Edge 454:
+	Deleted
+Edge 455:
+	Vertices: 499->239, Face: 215, Edge: 455
+	Vertices: 239->499, Face: 186, Edge: 455
+Edge 456:
+	Deleted
+Edge 457:
+	Vertices: 498->241, Face: 2, Edge: 457
+	Vertices: 241->498, Face: 215, Edge: 457
+Edge 458:
+	Deleted
+Edge 459:
+	Vertices: 241->238, Face: 206, Edge: 459
+	Vertices: 238->241, Face: 215, Edge: 459
+Edge 460:
+	Vertices: 500->243, Face: 186, Edge: 460
+	Vertices: 243->500, Face: 219, Edge: 460
+Edge 461:
+	Deleted
+Edge 462:
+	Vertices: 205->243, Face: 219, Edge: 462
+	Vertices: 243->205, Face: -1, Edge: 462
+Edge 463:
+	Vertices: 465->244, Face: 219, Edge: 463
+	Vertices: 244->465, Face: 100, Edge: 463
+Edge 464:
+	Vertices: 244->208, Face: 219, Edge: 464
+	Vertices: 208->244, Face: -1, Edge: 464
+Edge 465:
+	Deleted
+Edge 466:
+	Deleted
+Edge 467:
+	Deleted
+Edge 468:
+	Deleted
+Edge 469:
+	Vertices: 247->248, Face: 111, Edge: 469
+	Vertices: 248->247, Face: 223, Edge: 469
+Edge 470:
+	Deleted
+Edge 471:
+	Deleted
+Edge 472:
+	Vertices: 354->248, Face: 223, Edge: 472
+	Vertices: 248->354, Face: 212, Edge: 472
+Edge 473:
+	Vertices: 47->249, Face: 334, Edge: 473
+	Vertices: 249->47, Face: -1, Edge: 473
+Edge 474:
+	Deleted
+Edge 475:
+	Vertices: 250->204, Face: 293, Edge: 475
+	Vertices: 204->250, Face: -1, Edge: 475
+Edge 476:
+	Deleted
+Edge 477:
+	Deleted
+Edge 478:
+	Deleted
+Edge 479:
+	Deleted
+Edge 480:
+	Deleted
+Edge 481:
+	Deleted
+Edge 482:
+	Deleted
+Edge 483:
+	Deleted
+Edge 484:
+	Deleted
+Edge 485:
+	Vertices: 247->313, Face: 223, Edge: 485
+	Vertices: 313->247, Face: 195, Edge: 485
+Edge 486:
+	Deleted
+Edge 487:
+	Deleted
+Edge 488:
+	Deleted
+Edge 489:
+	Vertices: 360->258, Face: 176, Edge: 489
+	Vertices: 258->360, Face: 231, Edge: 489
+Edge 490:
+	Deleted
+Edge 491:
+	Vertices: 497->258, Face: 231, Edge: 491
+	Vertices: 258->497, Face: 2, Edge: 491
+Edge 492:
+	Deleted
+Edge 493:
+	Deleted
+Edge 494:
+	Deleted
+Edge 495:
+	Deleted
+Edge 496:
+	Deleted
+Edge 497:
+	Deleted
+Edge 498:
+	Deleted
+Edge 499:
+	Deleted
+Edge 500:
+	Deleted
+Edge 501:
+	Deleted
+Edge 502:
+	Deleted
+Edge 503:
+	Deleted
+Edge 504:
+	Vertices: 265->266, Face: 2, Edge: 504
+	Vertices: 266->265, Face: 240, Edge: 504
+Edge 505:
+	Deleted
+Edge 506:
+	Deleted
+Edge 507:
+	Vertices: 266->267, Face: 176, Edge: 507
+	Vertices: 267->266, Face: 240, Edge: 507
+Edge 508:
+	Deleted
+Edge 509:
+	Vertices: 374->267, Face: 240, Edge: 509
+	Vertices: 267->374, Face: 36, Edge: 509
+Edge 510:
+	Deleted
+Edge 511:
+	Deleted
+Edge 512:
+	Deleted
+Edge 513:
+	Deleted
+Edge 514:
+	Deleted
+Edge 515:
+	Vertices: 325->265, Face: 206, Edge: 515
+	Vertices: 265->325, Face: 240, Edge: 515
+Edge 516:
+	Vertices: 385->271, Face: 246, Edge: 516
+	Vertices: 271->385, Face: 180, Edge: 516
+Edge 517:
+	Deleted
+Edge 518:
+	Deleted
+Edge 519:
+	Deleted
+Edge 520:
+	Deleted
+Edge 521:
+	Deleted
+Edge 522:
+	Deleted
+Edge 523:
+	Vertices: 466->271, Face: 100, Edge: 523
+	Vertices: 271->466, Face: 246, Edge: 523
+Edge 524:
+	Vertices: 275->276, Face: 46, Edge: 524
+	Vertices: 276->275, Face: 250, Edge: 524
+Edge 525:
+	Deleted
+Edge 526:
+	Deleted
+Edge 527:
+	Vertices: 276->277, Face: 105, Edge: 527
+	Vertices: 277->276, Face: 250, Edge: 527
+Edge 528:
+	Deleted
+Edge 529:
+	Vertices: 277->278, Face: 41, Edge: 529
+	Vertices: 278->277, Face: 250, Edge: 529
+Edge 530:
+	Deleted
+Edge 531:
+	Vertices: 278->279, Face: 70, Edge: 531
+	Vertices: 279->278, Face: 250, Edge: 531
+Edge 532:
+	Deleted
+Edge 533:
+	Vertices: 320->279, Face: 250, Edge: 533
+	Vertices: 279->320, Face: 195, Edge: 533
+Edge 534:
+	Deleted
+Edge 535:
+	Deleted
+Edge 536:
+	Deleted
+Edge 537:
+	Vertices: 375->275, Face: 36, Edge: 537
+	Vertices: 275->375, Face: 250, Edge: 537
+Edge 538:
+	Vertices: 387->283, Face: 123, Edge: 538
+	Vertices: 283->387, Face: 257, Edge: 538
+Edge 539:
+	Deleted
+Edge 540:
+	Deleted
+Edge 541:
+	Vertices: 283->284, Face: 125, Edge: 541
+	Vertices: 284->283, Face: 257, Edge: 541
+Edge 542:
+	Vertices: 508->284, Face: 257, Edge: 542
+	Vertices: 284->508, Face: -1, Edge: 542
+Edge 543:
+	Deleted
+Edge 544:
+	Vertices: 369->141, Face: 463, Edge: 544
+	Vertices: 141->369, Face: -1, Edge: 544
+Edge 545:
+	Deleted
+Edge 546:
+	Deleted
+Edge 547:
+	Vertices: 518->363, Face: 103, Edge: 547
+	Vertices: 363->518, Face: 261, Edge: 547
+Edge 548:
+	Vertices: 287->192, Face: 475, Edge: 548
+	Vertices: 192->287, Face: -1, Edge: 548
+Edge 549:
+	Deleted
+Edge 550:
+	Deleted
+Edge 551:
+	Deleted
+Edge 552:
+	Vertices: 339->306, Face: 261, Edge: 552
+	Vertices: 306->339, Face: 4, Edge: 552
+Edge 553:
+	Deleted
+Edge 554:
+	Deleted
+Edge 555:
+	Vertices: 116->291, Face: 475, Edge: 555
+	Vertices: 291->116, Face: -1, Edge: 555
+Edge 556:
+	Vertices: 512->303, Face: 90, Edge: 556
+	Vertices: 303->512, Face: 265, Edge: 556
+Edge 557:
+	Deleted
+Edge 558:
+	Deleted
+Edge 559:
+	Deleted
+Edge 560:
+	Deleted
+Edge 561:
+	Vertices: 513->302, Face: 265, Edge: 561
+	Vertices: 302->513, Face: 261, Edge: 561
+Edge 562:
+	Deleted
+Edge 563:
+	Deleted
+Edge 564:
+	Deleted
+Edge 565:
+	Deleted
+Edge 566:
+	Deleted
+Edge 567:
+	Deleted
+Edge 568:
+	Deleted
+Edge 569:
+	Vertices: 510->362, Face: 261, Edge: 569
+	Vertices: 362->510, Face: 270, Edge: 569
+Edge 570:
+	Deleted
+Edge 571:
+	Deleted
+Edge 572:
+	Deleted
+Edge 573:
+	Deleted
+Edge 574:
+	Deleted
+Edge 575:
+	Vertices: 529->511, Face: 90, Edge: 575
+	Vertices: 511->529, Face: 270, Edge: 575
+Edge 576:
+	Vertices: 302->303, Face: 265, Edge: 576
+	Vertices: 303->302, Face: 275, Edge: 576
+Edge 577:
+	Deleted
+Edge 578:
+	Deleted
+Edge 579:
+	Vertices: 436->303, Face: 275, Edge: 579
+	Vertices: 303->436, Face: 90, Edge: 579
+Edge 580:
+	Deleted
+Edge 581:
+	Vertices: 435->305, Face: 133, Edge: 581
+	Vertices: 305->435, Face: 275, Edge: 581
+Edge 582:
+	Deleted
+Edge 583:
+	Vertices: 305->306, Face: 4, Edge: 583
+	Vertices: 306->305, Face: 275, Edge: 583
+Edge 584:
+	Deleted
+Edge 585:
+	Vertices: 306->302, Face: 261, Edge: 585
+	Vertices: 302->306, Face: 275, Edge: 585
+Edge 586:
+	Vertices: 381->407, Face: 162, Edge: 586
+	Vertices: 407->381, Face: 280, Edge: 586
+Edge 587:
+	Deleted
+Edge 588:
+	Deleted
+Edge 589:
+	Deleted
+Edge 590:
+	Deleted
+Edge 591:
+	Deleted
+Edge 592:
+	Deleted
+Edge 593:
+	Deleted
+Edge 594:
+	Deleted
+Edge 595:
+	Deleted
+Edge 596:
+	Deleted
+Edge 597:
+	Vertices: 467->384, Face: 246, Edge: 597
+	Vertices: 384->467, Face: 280, Edge: 597
+Edge 598:
+	Vertices: 353->313, Face: 286, Edge: 598
+	Vertices: 313->353, Face: 223, Edge: 598
+Edge 599:
+	Deleted
+Edge 600:
+	Deleted
+Edge 601:
+	Deleted
+Edge 602:
+	Vertices: 249->315, Face: 334, Edge: 602
+	Vertices: 315->249, Face: -1, Edge: 602
+Edge 603:
+	Deleted
+Edge 604:
+	Vertices: 316->48, Face: 293, Edge: 604
+	Vertices: 48->316, Face: -1, Edge: 604
+Edge 605:
+	Deleted
+Edge 606:
+	Deleted
+Edge 607:
+	Deleted
+Edge 608:
+	Deleted
+Edge 609:
+	Deleted
+Edge 610:
+	Vertices: 376->320, Face: 250, Edge: 610
+	Vertices: 320->376, Face: 286, Edge: 610
+Edge 611:
+	Deleted
+Edge 612:
+	Vertices: 320->313, Face: 195, Edge: 612
+	Vertices: 313->320, Face: 286, Edge: 612
+Edge 613:
+	Vertices: 322->372, Face: 293, Edge: 613
+	Vertices: 372->322, Face: 286, Edge: 613
+Edge 614:
+	Deleted
+Edge 615:
+	Vertices: 226->322, Face: 293, Edge: 615
+	Vertices: 322->226, Face: -1, Edge: 615
+Edge 616:
+	Vertices: 323->324, Face: 202, Edge: 616
+	Vertices: 324->323, Face: 293, Edge: 616
+Edge 617:
+	Vertices: 323->125, Face: 293, Edge: 617
+	Vertices: 125->323, Face: -1, Edge: 617
+Edge 618:
+	Deleted
+Edge 619:
+	Vertices: 324->325, Face: 206, Edge: 619
+	Vertices: 325->324, Face: 293, Edge: 619
+Edge 620:
+	Deleted
+Edge 621:
+	Vertices: 373->325, Face: 293, Edge: 621
+	Vertices: 325->373, Face: 240, Edge: 621
+Edge 622:
+	Deleted
+Edge 623:
+	Deleted
+Edge 624:
+	Deleted
+Edge 625:
+	Deleted
+Edge 626:
+	Vertices: 328->329, Face: 116, Edge: 626
+	Vertices: 329->328, Face: 299, Edge: 626
+Edge 627:
+	Deleted
+Edge 628:
+	Deleted
+Edge 629:
+	Vertices: 329->330, Face: 21, Edge: 629
+	Vertices: 330->329, Face: 299, Edge: 629
+Edge 630:
+	Deleted
+Edge 631:
+	Vertices: 359->330, Face: 299, Edge: 631
+	Vertices: 330->359, Face: 176, Edge: 631
+Edge 632:
+	Deleted
+Edge 633:
+	Vertices: 358->328, Face: 189, Edge: 633
+	Vertices: 328->358, Face: 299, Edge: 633
+Edge 634:
+	Vertices: 391->356, Face: 303, Edge: 634
+	Vertices: 356->391, Face: 57, Edge: 634
+Edge 635:
+	Deleted
+Edge 636:
+	Deleted
+Edge 637:
+	Deleted
+Edge 638:
+	Deleted
+Edge 639:
+	Vertices: 438->390, Face: 303, Edge: 639
+	Vertices: 390->438, Face: 90, Edge: 639
+Edge 640:
+	Deleted
+Edge 641:
+	Deleted
+Edge 642:
+	Vertices: 285->336, Face: 463, Edge: 642
+	Vertices: 336->285, Face: -1, Edge: 642
+Edge 643:
+	Deleted
+Edge 644:
+	Vertices: 337->493, Face: 463, Edge: 644
+	Vertices: 493->337, Face: -1, Edge: 644
+Edge 645:
+	Vertices: 514->339, Face: 261, Edge: 645
+	Vertices: 339->514, Face: 308, Edge: 645
+Edge 646:
+	Deleted
+Edge 647:
+	Deleted
+Edge 648:
+	Vertices: 484->339, Face: 308, Edge: 648
+	Vertices: 339->484, Face: 4, Edge: 648
+Edge 649:
+	Deleted
+Edge 650:
+	Deleted
+Edge 651:
+	Deleted
+Edge 652:
+	Deleted
+Edge 653:
+	Vertices: 191->342, Face: 475, Edge: 653
+	Vertices: 342->191, Face: -1, Edge: 653
+Edge 654:
+	Deleted
+Edge 655:
+	Vertices: 343->287, Face: 475, Edge: 655
+	Vertices: 287->343, Face: -1, Edge: 655
+Edge 656:
+	Vertices: 351->437, Face: 303, Edge: 656
+	Vertices: 437->351, Face: 313, Edge: 656
+Edge 657:
+	Deleted
+Edge 658:
+	Deleted
+Edge 659:
+	Deleted
+Edge 660:
+	Deleted
+Edge 661:
+	Deleted
+Edge 662:
+	Vertices: 336->443, Face: 463, Edge: 662
+	Vertices: 443->336, Face: -1, Edge: 662
+Edge 663:
+	Deleted
+Edge 664:
+	Vertices: 348->47, Face: 334, Edge: 664
+	Vertices: 47->348, Face: -1, Edge: 664
+Edge 665:
+	Deleted
+Edge 666:
+	Deleted
+Edge 667:
+	Deleted
+Edge 668:
+	Deleted
+Edge 669:
+	Vertices: 351->366, Face: 313, Edge: 669
+	Vertices: 366->351, Face: 319, Edge: 669
+Edge 670:
+	Deleted
+Edge 671:
+	Deleted
+Edge 672:
+	Vertices: 371->353, Face: 286, Edge: 672
+	Vertices: 353->371, Face: 319, Edge: 672
+Edge 673:
+	Deleted
+Edge 674:
+	Vertices: 353->354, Face: 223, Edge: 674
+	Vertices: 354->353, Face: 319, Edge: 674
+Edge 675:
+	Deleted
+Edge 676:
+	Vertices: 354->355, Face: 212, Edge: 676
+	Vertices: 355->354, Face: 319, Edge: 676
+Edge 677:
+	Deleted
+Edge 678:
+	Vertices: 355->356, Face: 57, Edge: 678
+	Vertices: 356->355, Face: 319, Edge: 678
+Edge 679:
+	Deleted
+Edge 680:
+	Vertices: 356->351, Face: 303, Edge: 680
+	Vertices: 351->356, Face: 319, Edge: 680
+Edge 681:
+	Vertices: 357->358, Face: 189, Edge: 681
+	Vertices: 358->357, Face: 325, Edge: 681
+Edge 682:
+	Deleted
+Edge 683:
+	Deleted
+Edge 684:
+	Vertices: 358->359, Face: 299, Edge: 684
+	Vertices: 359->358, Face: 325, Edge: 684
+Edge 685:
+	Deleted
+Edge 686:
+	Vertices: 359->360, Face: 176, Edge: 686
+	Vertices: 360->359, Face: 325, Edge: 686
+Edge 687:
+	Deleted
+Edge 688:
+	Vertices: 475->360, Face: 325, Edge: 688
+	Vertices: 360->475, Face: 231, Edge: 688
+Edge 689:
+	Deleted
+Edge 690:
+	Vertices: 474->357, Face: 7, Edge: 690
+	Vertices: 357->474, Face: 325, Edge: 690
+Edge 691:
+	Vertices: 362->363, Face: 261, Edge: 691
+	Vertices: 363->362, Face: 330, Edge: 691
+Edge 692:
+	Deleted
+Edge 693:
+	Deleted
+Edge 694:
+	Vertices: 458->363, Face: 330, Edge: 694
+	Vertices: 363->458, Face: 103, Edge: 694
+Edge 695:
+	Deleted
+Edge 696:
+	Deleted
+Edge 697:
+	Deleted
+Edge 698:
+	Vertices: 530->362, Face: 270, Edge: 698
+	Vertices: 362->530, Face: 330, Edge: 698
+Edge 699:
+	Vertices: 494->366, Face: 334, Edge: 699
+	Vertices: 366->494, Face: 313, Edge: 699
+Edge 700:
+	Deleted
+Edge 701:
+	Deleted
+Edge 702:
+	Deleted
+Edge 703:
+	Deleted
+Edge 704:
+	Deleted
+Edge 705:
+	Vertices: 347->454, Face: 463, Edge: 705
+	Vertices: 454->347, Face: -1, Edge: 705
+Edge 706:
+	Vertices: 370->371, Face: 286, Edge: 706
+	Vertices: 371->370, Face: 334, Edge: 706
+Edge 707:
+	Vertices: 370->348, Face: 334, Edge: 707
+	Vertices: 348->370, Face: -1, Edge: 707
+Edge 708:
+	Deleted
+Edge 709:
+	Vertices: 371->366, Face: 319, Edge: 709
+	Vertices: 366->371, Face: 334, Edge: 709
+Edge 710:
+	Vertices: 372->373, Face: 293, Edge: 710
+	Vertices: 373->372, Face: 339, Edge: 710
+Edge 711:
+	Deleted
+Edge 712:
+	Deleted
+Edge 713:
+	Vertices: 373->374, Face: 240, Edge: 713
+	Vertices: 374->373, Face: 339, Edge: 713
+Edge 714:
+	Deleted
+Edge 715:
+	Vertices: 374->375, Face: 36, Edge: 715
+	Vertices: 375->374, Face: 339, Edge: 715
+Edge 716:
+	Deleted
+Edge 717:
+	Vertices: 375->376, Face: 250, Edge: 717
+	Vertices: 376->375, Face: 339, Edge: 717
+Edge 718:
+	Deleted
+Edge 719:
+	Vertices: 376->372, Face: 286, Edge: 719
+	Vertices: 372->376, Face: 339, Edge: 719
+Edge 720:
+	Deleted
+Edge 721:
+	Deleted
+Edge 722:
+	Deleted
+Edge 723:
+	Deleted
+Edge 724:
+	Vertices: 182->534, Face: 344, Edge: 724
+	Vertices: 534->182, Face: -1, Edge: 724
+Edge 725:
+	Vertices: 380->381, Face: 162, Edge: 725
+	Vertices: 381->380, Face: 344, Edge: 725
+Edge 726:
+	Vertices: 380->8, Face: 344, Edge: 726
+	Vertices: 8->380, Face: -1, Edge: 726
+Edge 727:
+	Deleted
+Edge 728:
+	Vertices: 383->381, Face: 344, Edge: 728
+	Vertices: 381->383, Face: 280, Edge: 728
+Edge 729:
+	Vertices: 535->383, Face: 344, Edge: 729
+	Vertices: 383->535, Face: 348, Edge: 729
+Edge 730:
+	Deleted
+Edge 731:
+	Deleted
+Edge 732:
+	Vertices: 383->384, Face: 280, Edge: 732
+	Vertices: 384->383, Face: 348, Edge: 732
+Edge 733:
+	Deleted
+Edge 734:
+	Vertices: 384->385, Face: 246, Edge: 734
+	Vertices: 385->384, Face: 348, Edge: 734
+Edge 735:
+	Deleted
+Edge 736:
+	Vertices: 385->532, Face: 180, Edge: 736
+	Vertices: 532->385, Face: 348, Edge: 736
+Edge 737:
+	Vertices: 386->387, Face: 123, Edge: 737
+	Vertices: 387->386, Face: 352, Edge: 737
+Edge 738:
+	Vertices: 386->67, Face: 352, Edge: 738
+	Vertices: 67->386, Face: -1, Edge: 738
+Edge 739:
+	Deleted
+Edge 740:
+	Vertices: 461->387, Face: 352, Edge: 740
+	Vertices: 387->461, Face: 257, Edge: 740
+Edge 741:
+	Deleted
+Edge 742:
+	Deleted
+Edge 743:
+	Vertices: 137->389, Face: 418, Edge: 743
+	Vertices: 389->137, Face: -1, Edge: 743
+Edge 744:
+	Vertices: 390->391, Face: 303, Edge: 744
+	Vertices: 391->390, Face: 355, Edge: 744
+Edge 745:
+	Deleted
+Edge 746:
+	Deleted
+Edge 747:
+	Vertices: 432->391, Face: 355, Edge: 747
+	Vertices: 391->432, Face: 57, Edge: 747
+Edge 748:
+	Deleted
+Edge 749:
+	Deleted
+Edge 750:
+	Deleted
+Edge 751:
+	Deleted
+Edge 752:
+	Deleted
+Edge 753:
+	Deleted
+Edge 754:
+	Deleted
+Edge 755:
+	Vertices: 390->431, Face: 355, Edge: 755
+	Vertices: 431->390, Face: 90, Edge: 755
+Edge 756:
+	Vertices: 486->481, Face: 361, Edge: 756
+	Vertices: 481->486, Face: 172, Edge: 756
+Edge 757:
+	Deleted
+Edge 758:
+	Deleted
+Edge 759:
+	Deleted
+Edge 760:
+	Deleted
+Edge 761:
+	Vertices: 485->399, Face: 4, Edge: 761
+	Vertices: 399->485, Face: 361, Edge: 761
+Edge 762:
+	Deleted
+Edge 763:
+	Vertices: 482->399, Face: 361, Edge: 763
+	Vertices: 399->482, Face: 156, Edge: 763
+Edge 764:
+	Vertices: 452->456, Face: 365, Edge: 764
+	Vertices: 456->452, Face: 257, Edge: 764
+Edge 765:
+	Deleted
+Edge 766:
+	Deleted
+Edge 767:
+	Deleted
+Edge 768:
+	Deleted
+Edge 769:
+	Deleted
+Edge 770:
+	Deleted
+Edge 771:
+	Deleted
+Edge 772:
+	Deleted
+Edge 773:
+	Vertices: 531->457, Face: 330, Edge: 773
+	Vertices: 457->531, Face: 365, Edge: 773
+Edge 774:
+	Deleted
+Edge 775:
+	Deleted
+Edge 776:
+	Deleted
+Edge 777:
+	Deleted
+Edge 778:
+	Vertices: 446->407, Face: 372, Edge: 778
+	Vertices: 407->446, Face: 162, Edge: 778
+Edge 779:
+	Deleted
+Edge 780:
+	Deleted
+Edge 781:
+	Deleted
+Edge 782:
+	Deleted
+Edge 783:
+	Vertices: 407->445, Face: 372, Edge: 783
+	Vertices: 445->407, Face: 280, Edge: 783
+Edge 784:
+	Deleted
+Edge 785:
+	Deleted
+Edge 786:
+	Deleted
+Edge 787:
+	Deleted
+Edge 788:
+	Deleted
+Edge 789:
+	Vertices: 416->420, Face: 375, Edge: 789
+	Vertices: 420->416, Face: 172, Edge: 789
+Edge 790:
+	Deleted
+Edge 791:
+	Deleted
+Edge 792:
+	Deleted
+Edge 793:
+	Deleted
+Edge 794:
+	Vertices: 449->416, Face: 375, Edge: 794
+	Vertices: 416->449, Face: 380, Edge: 794
+Edge 795:
+	Deleted
+Edge 796:
+	Deleted
+Edge 797:
+	Vertices: 480->416, Face: 380, Edge: 797
+	Vertices: 416->480, Face: 172, Edge: 797
+Edge 798:
+	Deleted
+Edge 799:
+	Deleted
+Edge 800:
+	Deleted
+Edge 801:
+	Vertices: 479->450, Face: 280, Edge: 801
+	Vertices: 450->479, Face: 380, Edge: 801
+Edge 802:
+	Deleted
+Edge 803:
+	Deleted
+Edge 804:
+	Vertices: 448->420, Face: 385, Edge: 804
+	Vertices: 420->448, Face: 375, Edge: 804
+Edge 805:
+	Deleted
+Edge 806:
+	Deleted
+Edge 807:
+	Vertices: 447->422, Face: 162, Edge: 807
+	Vertices: 422->447, Face: 385, Edge: 807
+Edge 808:
+	Vertices: 522->422, Face: 385, Edge: 808
+	Vertices: 422->522, Face: -1, Edge: 808
+Edge 809:
+	Deleted
+Edge 810:
+	Vertices: 516->191, Face: 475, Edge: 810
+	Vertices: 191->516, Face: -1, Edge: 810
+Edge 811:
+	Deleted
+Edge 812:
+	Vertices: 487->420, Face: 172, Edge: 812
+	Vertices: 420->487, Face: 385, Edge: 812
+Edge 813:
+	Vertices: 425->426, Face: 1, Edge: 813
+	Vertices: 426->425, Face: 389, Edge: 813
+Edge 814:
+	Deleted
+Edge 815:
+	Deleted
+Edge 816:
+	Vertices: 426->427, Face: 151, Edge: 816
+	Vertices: 427->426, Face: 389, Edge: 816
+Edge 817:
+	Deleted
+Edge 818:
+	Vertices: 427->428, Face: 16, Edge: 818
+	Vertices: 428->427, Face: 389, Edge: 818
+Edge 819:
+	Deleted
+Edge 820:
+	Vertices: 428->429, Face: 11, Edge: 820
+	Vertices: 429->428, Face: 389, Edge: 820
+Edge 821:
+	Deleted
+Edge 822:
+	Vertices: 429->430, Face: 156, Edge: 822
+	Vertices: 430->429, Face: 389, Edge: 822
+Edge 823:
+	Deleted
+Edge 824:
+	Vertices: 430->425, Face: 133, Edge: 824
+	Vertices: 425->430, Face: 389, Edge: 824
+Edge 825:
+	Vertices: 431->432, Face: 355, Edge: 825
+	Vertices: 432->431, Face: 395, Edge: 825
+Edge 826:
+	Deleted
+Edge 827:
+	Deleted
+Edge 828:
+	Vertices: 432->433, Face: 57, Edge: 828
+	Vertices: 433->432, Face: 395, Edge: 828
+Edge 829:
+	Deleted
+Edge 830:
+	Vertices: 433->434, Face: 0, Edge: 830
+	Vertices: 434->433, Face: 395, Edge: 830
+Edge 831:
+	Deleted
+Edge 832:
+	Vertices: 434->435, Face: 133, Edge: 832
+	Vertices: 435->434, Face: 395, Edge: 832
+Edge 833:
+	Deleted
+Edge 834:
+	Vertices: 435->436, Face: 275, Edge: 834
+	Vertices: 436->435, Face: 395, Edge: 834
+Edge 835:
+	Deleted
+Edge 836:
+	Vertices: 436->431, Face: 90, Edge: 836
+	Vertices: 431->436, Face: 395, Edge: 836
+Edge 837:
+	Vertices: 437->438, Face: 303, Edge: 837
+	Vertices: 438->437, Face: 401, Edge: 837
+Edge 838:
+	Deleted
+Edge 839:
+	Deleted
+Edge 840:
+	Vertices: 528->438, Face: 401, Edge: 840
+	Vertices: 438->528, Face: 90, Edge: 840
+Edge 841:
+	Deleted
+Edge 842:
+	Deleted
+Edge 843:
+	Deleted
+Edge 844:
+	Deleted
+Edge 845:
+	Deleted
+Edge 846:
+	Deleted
+Edge 847:
+	Vertices: 141->442, Face: 463, Edge: 847
+	Vertices: 442->141, Face: -1, Edge: 847
+Edge 848:
+	Deleted
+Edge 849:
+	Vertices: 443->347, Face: 463, Edge: 849
+	Vertices: 347->443, Face: -1, Edge: 849
+Edge 850:
+	Deleted
+Edge 851:
+	Vertices: 437->490, Face: 401, Edge: 851
+	Vertices: 490->437, Face: 313, Edge: 851
+Edge 852:
+	Vertices: 445->446, Face: 372, Edge: 852
+	Vertices: 446->445, Face: 408, Edge: 852
+Edge 853:
+	Deleted
+Edge 854:
+	Deleted
+Edge 855:
+	Vertices: 446->447, Face: 162, Edge: 855
+	Vertices: 447->446, Face: 408, Edge: 855
+Edge 856:
+	Deleted
+Edge 857:
+	Vertices: 447->448, Face: 385, Edge: 857
+	Vertices: 448->447, Face: 408, Edge: 857
+Edge 858:
+	Deleted
+Edge 859:
+	Vertices: 448->449, Face: 375, Edge: 859
+	Vertices: 449->448, Face: 408, Edge: 859
+Edge 860:
+	Deleted
+Edge 861:
+	Vertices: 449->450, Face: 380, Edge: 861
+	Vertices: 450->449, Face: 408, Edge: 861
+Edge 862:
+	Deleted
+Edge 863:
+	Vertices: 450->445, Face: 280, Edge: 863
+	Vertices: 445->450, Face: 408, Edge: 863
+Edge 864:
+	Vertices: 524->452, Face: 365, Edge: 864
+	Vertices: 452->524, Face: 414, Edge: 864
+Edge 865:
+	Deleted
+Edge 866:
+	Deleted
+Edge 867:
+	Vertices: 507->452, Face: 414, Edge: 867
+	Vertices: 452->507, Face: 257, Edge: 867
+Edge 868:
+	Vertices: 503->453, Face: 463, Edge: 868
+	Vertices: 453->503, Face: -1, Edge: 868
+Edge 869:
+	Deleted
+Edge 870:
+	Vertices: 454->369, Face: 463, Edge: 870
+	Vertices: 369->454, Face: -1, Edge: 870
+Edge 871:
+	Deleted
+Edge 872:
+	Deleted
+Edge 873:
+	Vertices: 456->457, Face: 365, Edge: 873
+	Vertices: 457->456, Face: 418, Edge: 873
+Edge 874:
+	Deleted
+Edge 875:
+	Deleted
+Edge 876:
+	Vertices: 457->458, Face: 330, Edge: 876
+	Vertices: 458->457, Face: 418, Edge: 876
+Edge 877:
+	Deleted
+Edge 878:
+	Vertices: 458->459, Face: 103, Edge: 878
+	Vertices: 459->458, Face: 418, Edge: 878
+Edge 879:
+	Vertices: 4->459, Face: 418, Edge: 879
+	Vertices: 459->4, Face: -1, Edge: 879
+Edge 880:
+	Vertices: 460->461, Face: 352, Edge: 880
+	Vertices: 461->460, Face: 418, Edge: 880
+Edge 881:
+	Vertices: 460->137, Face: 418, Edge: 881
+	Vertices: 137->460, Face: -1, Edge: 881
+Edge 882:
+	Deleted
+Edge 883:
+	Vertices: 461->456, Face: 257, Edge: 883
+	Vertices: 456->461, Face: 418, Edge: 883
+Edge 884:
+	Vertices: 496->476, Face: 423, Edge: 884
+	Vertices: 476->496, Face: 231, Edge: 884
+Edge 885:
+	Deleted
+Edge 886:
+	Deleted
+Edge 887:
+	Deleted
+Edge 888:
+	Deleted
+Edge 889:
+	Vertices: 495->465, Face: 219, Edge: 889
+	Vertices: 465->495, Face: 423, Edge: 889
+Edge 890:
+	Deleted
+Edge 891:
+	Vertices: 465->466, Face: 100, Edge: 891
+	Vertices: 466->465, Face: 423, Edge: 891
+Edge 892:
+	Deleted
+Edge 893:
+	Vertices: 466->467, Face: 246, Edge: 893
+	Vertices: 467->466, Face: 423, Edge: 893
+Edge 894:
+	Deleted
+Edge 895:
+	Vertices: 467->469, Face: 280, Edge: 895
+	Vertices: 469->467, Face: 423, Edge: 895
+Edge 896:
+	Deleted
+Edge 897:
+	Deleted
+Edge 898:
+	Vertices: 478->469, Face: 430, Edge: 898
+	Vertices: 469->478, Face: 280, Edge: 898
+Edge 899:
+	Deleted
+Edge 900:
+	Deleted
+Edge 901:
+	Deleted
+Edge 902:
+	Deleted
+Edge 903:
+	Deleted
+Edge 904:
+	Deleted
+Edge 905:
+	Deleted
+Edge 906:
+	Deleted
+Edge 907:
+	Vertices: 474->477, Face: 430, Edge: 907
+	Vertices: 477->474, Face: 7, Edge: 907
+Edge 908:
+	Deleted
+Edge 909:
+	Vertices: 474->475, Face: 325, Edge: 909
+	Vertices: 475->474, Face: 430, Edge: 909
+Edge 910:
+	Deleted
+Edge 911:
+	Vertices: 475->476, Face: 231, Edge: 911
+	Vertices: 476->475, Face: 430, Edge: 911
+Edge 912:
+	Deleted
+Edge 913:
+	Vertices: 476->469, Face: 423, Edge: 913
+	Vertices: 469->476, Face: 430, Edge: 913
+Edge 914:
+	Vertices: 477->478, Face: 430, Edge: 914
+	Vertices: 478->477, Face: 438, Edge: 914
+Edge 915:
+	Deleted
+Edge 916:
+	Deleted
+Edge 917:
+	Vertices: 478->479, Face: 280, Edge: 917
+	Vertices: 479->478, Face: 438, Edge: 917
+Edge 918:
+	Deleted
+Edge 919:
+	Vertices: 479->480, Face: 380, Edge: 919
+	Vertices: 480->479, Face: 438, Edge: 919
+Edge 920:
+	Deleted
+Edge 921:
+	Vertices: 480->481, Face: 172, Edge: 921
+	Vertices: 481->480, Face: 438, Edge: 921
+Edge 922:
+	Deleted
+Edge 923:
+	Vertices: 481->482, Face: 361, Edge: 923
+	Vertices: 482->481, Face: 438, Edge: 923
+Edge 924:
+	Deleted
+Edge 925:
+	Vertices: 482->483, Face: 156, Edge: 925
+	Vertices: 483->482, Face: 438, Edge: 925
+Edge 926:
+	Deleted
+Edge 927:
+	Vertices: 483->477, Face: 7, Edge: 927
+	Vertices: 477->483, Face: 438, Edge: 927
+Edge 928:
+	Vertices: 484->485, Face: 4, Edge: 928
+	Vertices: 485->484, Face: 445, Edge: 928
+Edge 929:
+	Deleted
+Edge 930:
+	Deleted
+Edge 931:
+	Vertices: 485->486, Face: 361, Edge: 931
+	Vertices: 486->485, Face: 445, Edge: 931
+Edge 932:
+	Deleted
+Edge 933:
+	Vertices: 486->487, Face: 172, Edge: 933
+	Vertices: 487->486, Face: 445, Edge: 933
+Edge 934:
+	Deleted
+Edge 935:
+	Vertices: 521->487, Face: 445, Edge: 935
+	Vertices: 487->521, Face: 385, Edge: 935
+Edge 936:
+	Vertices: 342->488, Face: 475, Edge: 936
+	Vertices: 488->342, Face: -1, Edge: 936
+Edge 937:
+	Vertices: 515->484, Face: 308, Edge: 937
+	Vertices: 484->515, Face: 445, Edge: 937
+Edge 938:
+	Vertices: 489->183, Face: 475, Edge: 938
+	Vertices: 183->489, Face: -1, Edge: 938
+Edge 939:
+	Vertices: 527->490, Face: 450, Edge: 939
+	Vertices: 490->527, Face: 401, Edge: 939
+Edge 940:
+	Deleted
+Edge 941:
+	Deleted
+Edge 942:
+	Deleted
+Edge 943:
+	Vertices: 138->492, Face: 463, Edge: 943
+	Vertices: 492->138, Face: -1, Edge: 943
+Edge 944:
+	Vertices: 501->494, Face: 334, Edge: 944
+	Vertices: 494->501, Face: 450, Edge: 944
+Edge 945:
+	Vertices: 493->99, Face: 463, Edge: 945
+	Vertices: 99->493, Face: -1, Edge: 945
+Edge 946:
+	Deleted
+Edge 947:
+	Vertices: 494->490, Face: 313, Edge: 947
+	Vertices: 490->494, Face: 450, Edge: 947
+Edge 948:
+	Vertices: 495->496, Face: 423, Edge: 948
+	Vertices: 496->495, Face: 454, Edge: 948
+Edge 949:
+	Deleted
+Edge 950:
+	Deleted
+Edge 951:
+	Vertices: 496->497, Face: 231, Edge: 951
+	Vertices: 497->496, Face: 454, Edge: 951
+Edge 952:
+	Deleted
+Edge 953:
+	Vertices: 497->498, Face: 2, Edge: 953
+	Vertices: 498->497, Face: 454, Edge: 953
+Edge 954:
+	Deleted
+Edge 955:
+	Vertices: 498->499, Face: 215, Edge: 955
+	Vertices: 499->498, Face: 454, Edge: 955
+Edge 956:
+	Deleted
+Edge 957:
+	Vertices: 499->500, Face: 186, Edge: 957
+	Vertices: 500->499, Face: 454, Edge: 957
+Edge 958:
+	Deleted
+Edge 959:
+	Vertices: 500->495, Face: 219, Edge: 959
+	Vertices: 495->500, Face: 454, Edge: 959
+Edge 960:
+	Vertices: 526->501, Face: 460, Edge: 960
+	Vertices: 501->526, Face: 450, Edge: 960
+Edge 961:
+	Deleted
+Edge 962:
+	Deleted
+Edge 963:
+	Vertices: 525->506, Face: 414, Edge: 963
+	Vertices: 506->525, Face: 460, Edge: 963
+Edge 964:
+	Vertices: 492->503, Face: 463, Edge: 964
+	Vertices: 503->492, Face: -1, Edge: 964
+Edge 965:
+	Vertices: 505->501, Face: 334, Edge: 965
+	Vertices: 501->505, Face: 460, Edge: 965
+Edge 966:
+	Vertices: 504->337, Face: 463, Edge: 966
+	Vertices: 337->504, Face: -1, Edge: 966
+Edge 967:
+	Vertices: 505->506, Face: 460, Edge: 967
+	Vertices: 506->505, Face: 463, Edge: 967
+Edge 968:
+	Deleted
+Edge 969:
+	Deleted
+Edge 970:
+	Vertices: 506->507, Face: 414, Edge: 970
+	Vertices: 507->506, Face: 463, Edge: 970
+Edge 971:
+	Deleted
+Edge 972:
+	Vertices: 507->508, Face: 257, Edge: 972
+	Vertices: 508->507, Face: 463, Edge: 972
+Edge 973:
+	Vertices: 453->508, Face: 463, Edge: 973
+	Vertices: 508->453, Face: -1, Edge: 973
+Edge 974:
+	Vertices: 509->505, Face: 334, Edge: 974
+	Vertices: 505->509, Face: 463, Edge: 974
+Edge 975:
+	Vertices: 509->124, Face: 463, Edge: 975
+	Vertices: 124->509, Face: -1, Edge: 975
+Edge 976:
+	Vertices: 510->511, Face: 270, Edge: 976
+	Vertices: 511->510, Face: 467, Edge: 976
+Edge 977:
+	Deleted
+Edge 978:
+	Deleted
+Edge 979:
+	Vertices: 511->512, Face: 90, Edge: 979
+	Vertices: 512->511, Face: 467, Edge: 979
+Edge 980:
+	Deleted
+Edge 981:
+	Vertices: 512->513, Face: 265, Edge: 981
+	Vertices: 513->512, Face: 467, Edge: 981
+Edge 982:
+	Deleted
+Edge 983:
+	Vertices: 513->510, Face: 261, Edge: 983
+	Vertices: 510->513, Face: 467, Edge: 983
+Edge 984:
+	Vertices: 514->515, Face: 308, Edge: 984
+	Vertices: 515->514, Face: 471, Edge: 984
+Edge 985:
+	Deleted
+Edge 986:
+	Deleted
+Edge 987:
+	Vertices: 520->515, Face: 471, Edge: 987
+	Vertices: 515->520, Face: 445, Edge: 987
+Edge 988:
+	Vertices: 423->516, Face: 475, Edge: 988
+	Vertices: 516->423, Face: -1, Edge: 988
+Edge 989:
+	Vertices: 519->518, Face: 103, Edge: 989
+	Vertices: 518->519, Face: 471, Edge: 989
+Edge 990:
+	Vertices: 517->1, Face: 475, Edge: 990
+	Vertices: 1->517, Face: -1, Edge: 990
+Edge 991:
+	Deleted
+Edge 992:
+	Vertices: 518->514, Face: 261, Edge: 992
+	Vertices: 514->518, Face: 471, Edge: 992
+Edge 993:
+	Vertices: 519->520, Face: 471, Edge: 993
+	Vertices: 520->519, Face: 475, Edge: 993
+Edge 994:
+	Deleted
+Edge 995:
+	Deleted
+Edge 996:
+	Vertices: 520->521, Face: 445, Edge: 996
+	Vertices: 521->520, Face: 475, Edge: 996
+Edge 997:
+	Deleted
+Edge 998:
+	Vertices: 521->522, Face: 385, Edge: 998
+	Vertices: 522->521, Face: 475, Edge: 998
+Edge 999:
+	Vertices: 488->522, Face: 475, Edge: 999
+	Vertices: 522->488, Face: -1, Edge: 999
+Edge 1000:
+	Vertices: 523->519, Face: 103, Edge: 1000
+	Vertices: 519->523, Face: 475, Edge: 1000
+Edge 1001:
+	Vertices: 523->517, Face: 475, Edge: 1001
+	Vertices: 517->523, Face: -1, Edge: 1001
+Edge 1002:
+	Vertices: 524->525, Face: 414, Edge: 1002
+	Vertices: 525->524, Face: 479, Edge: 1002
+Edge 1003:
+	Deleted
+Edge 1004:
+	Deleted
+Edge 1005:
+	Vertices: 525->526, Face: 460, Edge: 1005
+	Vertices: 526->525, Face: 479, Edge: 1005
+Edge 1006:
+	Deleted
+Edge 1007:
+	Vertices: 526->527, Face: 450, Edge: 1007
+	Vertices: 527->526, Face: 479, Edge: 1007
+Edge 1008:
+	Deleted
+Edge 1009:
+	Vertices: 527->528, Face: 401, Edge: 1009
+	Vertices: 528->527, Face: 479, Edge: 1009
+Edge 1010:
+	Deleted
+Edge 1011:
+	Vertices: 528->529, Face: 90, Edge: 1011
+	Vertices: 529->528, Face: 479, Edge: 1011
+Edge 1012:
+	Deleted
+Edge 1013:
+	Vertices: 529->530, Face: 270, Edge: 1013
+	Vertices: 530->529, Face: 479, Edge: 1013
+Edge 1014:
+	Deleted
+Edge 1015:
+	Vertices: 530->531, Face: 330, Edge: 1015
+	Vertices: 531->530, Face: 479, Edge: 1015
+Edge 1016:
+	Deleted
+Edge 1017:
+	Vertices: 531->524, Face: 365, Edge: 1017
+	Vertices: 524->531, Face: 479, Edge: 1017
+Edge 1018:
+	Vertices: 532->533, Face: 180, Edge: 1018
+	Vertices: 533->532, Face: 487, Edge: 1018
+Edge 1019:
+	Deleted
+Edge 1020:
+	Vertices: 5->533, Face: 487, Edge: 1020
+	Vertices: 533->5, Face: -1, Edge: 1020
+Edge 1021:
+	Vertices: 534->535, Face: 344, Edge: 1021
+	Vertices: 535->534, Face: 487, Edge: 1021
+Edge 1022:
+	Vertices: 534->379, Face: 487, Edge: 1022
+	Vertices: 379->534, Face: -1, Edge: 1022
+Edge 1023:
+	Deleted
+Edge 1024:
+	Vertices: 535->532, Face: 348, Edge: 1024
+	Vertices: 532->535, Face: 487, Edge: 1024
+Edge cycles:
+Face 0: 830->293->4->268->410->121->830
+Face 1: 813->325->313->279->4->280->813
+Face 2: 953->457->438->504->374->491->953
+Face 4: 928->761->333->287->583->552->648->928
+Face 7: 927->907->690->409->251->169->28->329->927
+Face 11: 820->326->28->171->206->38->820
+Face 16: 818->38->208->359->147->323->818
+Face 21: 629->369->78->137->301->244->629
+Face 26: 294->104->228->111->183->294
+Face 31: 319->140->151->277->306->319
+Face 36: 715->537->99->135->78->372->509->715
+Face 41: 529->161->355->197->221->529
+Face 46: 524->226->104->297->132->99->524
+Face 52: 230->200->181->111->230
+Face 57: 828->121->413->233->445->678->634->747->828
+Face 62: 299->137->135->132->299
+Face 66: 350->148->140->321->147->350
+Face 70: 531->421->275->151->148->353->161->531
+Face 77: 253->176->204->171->169->253
+Face 84: 305->183->181->202->176->255->305
+Face 90: 1011->575->979->556->579->836->755->639->840->1011
+Face 94: 357->208->206->204->202->200->232->197->357
+Face 100: 891->523->377->211->463->891
+Face 103: 1000->989->547->694->878->196->5->1000
+Face 105: 527->221->232->230->228->226->527
+Face 111: 469->450->233->415->469
+Face 116: 626->244->303->255->253->251->398->626
+Face 123: 737->538->263->125->737
+Face 125: 541->262->217->0->265->263->541
+Face 127: 423->268->279->315->277->275->423
+Face 133: 832->581->287->336->824->280->293->832
+Face 140: 294->305->303->301->299->297->294
+Face 146: 316->306->315->313->316
+Face 151: 816->323->321->319->316->325->816
+Face 156: 925->329->326->822->336->333->763->925
+Face 162: 855->807->349->334->725->586->778->855
+Face 167: 350->359->357->355->353->350
+Face 172: 933->812->789->797->921->756->933
+Face 176: 686->489->374->507->372->369->631->686
+Face 180: 1018->379->377->516->736->1018
+Face 182: 452->391->424->433->452
+Face 186: 957->460->390->431->391->455->957
+Face 189: 681->633->398->409->681
+Face 195: 612->485->415->413->410->423->421->533->612
+Face 202: 616->444->424->431->432->393->9->616
+Face 206: 619->515->438->459->433->444->619
+Face 212: 676->445->450->472->676
+Face 215: 955->455->452->459->457->955
+Face 219: 959->889->463->464->395->462->460->959
+Face 223: 674->472->469->485->598->674
+Face 231: 951->491->489->688->911->884->951
+Face 240: 713->509->507->504->515->621->713
+Face 246: 893->597->734->516->523->893
+Face 250: 717->610->533->531->529->527->524->537->717
+Face 257: 972->542->541->538->740->883->764->867->972
+Face 261: 992->645->552->585->561->983->569->691->547->992
+Face 265: 981->561->576->556->981
+Face 270: 1013->698->569->976->575->1013
+Face 275: 834->579->576->585->583->581->834
+Face 280: 917->801->863->783->586->728->732->597->895->898->917
+Face 286: 719->613->88->86->451->706->672->598->612->610->719
+Face 293: 710->621->619->616->617->237->127->604->388->475->430->615->613->710
+Face 299: 684->631->629->626->633->684
+Face 303: 837->639->744->634->680->656->837
+Face 308: 984->937->648->645->984
+Face 313: 947->851->656->669->699->947
+Face 319: 709->669->680->678->676->674->672->709
+Face 325: 909->688->686->684->681->690->909
+Face 330: 1015->773->876->694->691->698->1015
+Face 334: 974->965->944->699->709->706->707->664->473->602->235->974
+Face 339: 710->719->717->715->713->710
+Face 344: 1021->729->728->725->726->16->332->213->27->11->381->25->347->724->1021
+Face 348: 1024->736->734->732->729->1024
+Face 352: 880->740->737->738->260->880
+Face 355: 825->747->744->755->825
+Face 361: 931->756->923->763->761->931
+Face 365: 1017->864->764->873->773->1017
+Face 372: 852->778->783->852
+Face 375: 859->794->789->804->859
+Face 380: 919->797->794->861->801->919
+Face 385: 998->808->807->857->804->812->935->998
+Face 389: 813->824->822->820->818->816->813
+Face 395: 825->836->834->832->830->828->825
+Face 401: 1009->840->837->851->939->1009
+Face 408: 852->863->861->859->857->855->852
+Face 414: 1002->963->970->867->864->1002
+Face 418: 873->883->880->881->743->18->879->878->876->873
+Face 423: 948->884->913->895->893->891->889->948
+Face 430: 914->898->913->911->909->907->914
+Face 438: 914->927->925->923->921->919->917->914
+Face 445: 996->935->933->931->928->937->987->996
+Face 450: 1007->939->947->944->960->1007
+Face 454: 948->959->957->955->953->951->948
+Face 460: 1005->960->965->967->963->1005
+Face 463: 967->974->975->3->966->644->945->449->189->642->662->849->705->870->544->847->267->943->964->868->973->972->970->967
+Face 467: 976->983->981->979->976
+Face 471: 993->987->984->992->989->993
+Face 475: 993->1000->1001->990->220->655->548->366->555->1->938->364->988->810->653->936->999->998->996->993
+Face 479: 1002->1017->1015->1013->1011->1009->1007->1005->1002
+Face 487: 1018->1024->1021->1022->2->6->1020->1018
+P_{0}=(140.900000,-39.200000)
+P_{1}=(140.900000,-33.900000)
+P_{2}=(150.000000,-33.900000)
+P_{3}=(150.000000,-39.200000)
+P_{4}=(140.900000,-36.501231)
+P_{5}=(149.139216,-39.200000)
+P_{7}=(144.652736,-39.200000)
+P_{8}=(147.169725,-33.900000)
+P_{11}=(148.617649,-33.900000)
+P_{12}=(140.900000,-38.860754)
+P_{16}=(150.000000,-34.356030)
+P_{17}=(147.783931,-33.900000)
+P_{47}=(144.419617,-39.200000)
+P_{48}=(144.967123,-39.200000)
+P_{67}=(140.900000,-37.778651)
+P_{68}=(145.030891,-39.200000)
+P_{72}=(145.147714,-37.973060)
+P_{73}=(145.227329,-37.953466)
+P_{80}=(144.892854,-37.804429)
+P_{90}=(145.136299,-37.668656)
+P_{96}=(145.165711,-37.788950)
+P_{99}=(143.236919,-39.200000)
+P_{103}=(140.900000,-35.204791)
+P_{106}=(145.103160,-37.776189)
+P_{107}=(145.098067,-37.746032)
+P_{108}=(145.077356,-37.682585)
+P_{109}=(145.028693,-37.663280)
+P_{111}=(146.274142,-39.200000)
+P_{112}=(147.366902,-33.900000)
+P_{114}=(141.452621,-39.200000)
+P_{116}=(143.308393,-33.900000)
+P_{117}=(145.067042,-37.793393)
+P_{120}=(145.098367,-37.877109)
+P_{121}=(145.098432,-37.863334)
+P_{122}=(145.091300,-37.791239)
+P_{124}=(143.909651,-39.200000)
+P_{125}=(145.080225,-39.200000)
+P_{133}=(145.282776,-37.691896)
+P_{134}=(145.268698,-37.718585)
+P_{137}=(140.900000,-36.857773)
+P_{138}=(142.666705,-39.200000)
+P_{140}=(140.900000,-38.059656)
+P_{141}=(142.699331,-39.200000)
+P_{142}=(144.769542,-37.768706)
+P_{146}=(144.846304,-37.834137)
+P_{148}=(144.521963,-37.687611)
+P_{155}=(145.186968,-37.790827)
+P_{156}=(145.123075,-37.878053)
+P_{157}=(145.161345,-37.893632)
+P_{158}=(145.215293,-37.887925)
+P_{159}=(145.247656,-37.840033)
+P_{160}=(145.240588,-37.779758)
+P_{161}=(144.836851,-37.813905)
+P_{165}=(144.787394,-37.760575)
+P_{166}=(144.827656,-37.686246)
+P_{167}=(144.860900,-37.786652)
+P_{168}=(144.888423,-37.760194)
+P_{169}=(144.895752,-37.737221)
+P_{172}=(145.144843,-37.351265)
+P_{174}=(147.739635,-33.900000)
+P_{175}=(146.315414,-33.900000)
+P_{176}=(144.556583,-37.056807)
+P_{182}=(150.000000,-35.085752)
+P_{183}=(143.877704,-33.900000)
+P_{184}=(144.930296,-37.754766)
+P_{185}=(144.935248,-37.814606)
+P_{186}=(144.972580,-37.868053)
+P_{187}=(145.006263,-37.772782)
+P_{188}=(144.998280,-37.739054)
+P_{191}=(144.381083,-33.900000)
+P_{192}=(143.297275,-33.900000)
+P_{195}=(145.271927,-38.001766)
+P_{199}=(147.932444,-39.200000)
+P_{200}=(149.405500,-33.900000)
+P_{204}=(144.897816,-39.200000)
+P_{205}=(146.705591,-39.200000)
+P_{207}=(146.209674,-39.200000)
+P_{208}=(146.842681,-39.200000)
+P_{210}=(145.297386,-37.680785)
+P_{216}=(144.751701,-37.817081)
+P_{217}=(144.454370,-37.919342)
+P_{218}=(144.514940,-37.982621)
+P_{222}=(144.852437,-38.045287)
+P_{223}=(145.958884,-38.616832)
+P_{226}=(144.849055,-39.200000)
+P_{227}=(146.453861,-39.200000)
+P_{228}=(145.518169,-38.613487)
+P_{234}=(144.404607,-38.204526)
+P_{236}=(143.208328,-39.200000)
+P_{237}=(144.618494,-39.200000)
+P_{238}=(145.662376,-38.491332)
+P_{239}=(145.916366,-38.517964)
+P_{241}=(145.809701,-38.176421)
+P_{243}=(146.469507,-39.200000)
+P_{244}=(147.106517,-39.200000)
+P_{247}=(144.586262,-38.042425)
+P_{248}=(144.464925,-38.485261)
+P_{249}=(144.326515,-39.200000)
+P_{250}=(144.952409,-39.200000)
+P_{258}=(145.503172,-37.971239)
+P_{265}=(145.523936,-38.256612)
+P_{266}=(145.411136,-38.104109)
+P_{267}=(145.278164,-38.120631)
+P_{271}=(147.460338,-37.961442)
+P_{275}=(145.122927,-37.994677)
+P_{276}=(145.087446,-37.885116)
+P_{277}=(144.990663,-37.898060)
+P_{278}=(144.976222,-37.902174)
+P_{279}=(144.857837,-38.074576)
+P_{283}=(141.613301,-38.280551)
+P_{284}=(141.834454,-39.200000)
+P_{285}=(143.035122,-39.200000)
+P_{287}=(142.719894,-33.900000)
+P_{291}=(143.616916,-33.900000)
+P_{302}=(143.460402,-36.961835)
+P_{303}=(143.658817,-37.443895)
+P_{305}=(144.219334,-37.217651)
+P_{306}=(143.725536,-36.640221)
+P_{313}=(144.799398,-38.093066)
+P_{315}=(144.278292,-39.200000)
+P_{316}=(145.020700,-39.200000)
+P_{320}=(144.852632,-38.094169)
+P_{322}=(144.756816,-39.200000)
+P_{323}=(145.133842,-39.200000)
+P_{324}=(145.330165,-38.714154)
+P_{325}=(145.328825,-38.597545)
+P_{328}=(145.354373,-37.851174)
+P_{329}=(145.274091,-37.857672)
+P_{330}=(145.325483,-37.933469)
+P_{336}=(142.946151,-39.200000)
+P_{337}=(143.868178,-39.200000)
+P_{339}=(143.730358,-36.537213)
+P_{342}=(144.465323,-33.900000)
+P_{343}=(141.506133,-33.900000)
+P_{347}=(142.779541,-39.200000)
+P_{348}=(144.516618,-39.200000)
+P_{351}=(143.919585,-38.286272)
+P_{353}=(144.441710,-38.699654)
+P_{354}=(144.431338,-38.658702)
+P_{355}=(144.194125,-38.261572)
+P_{356}=(144.171611,-38.230382)
+P_{357}=(145.377792,-37.603595)
+P_{358}=(145.378876,-37.863768)
+P_{359}=(145.425371,-37.914648)
+P_{360}=(145.479878,-37.928610)
+P_{362}=(143.109230,-37.048691)
+P_{363}=(142.699501,-36.498915)
+P_{366}=(144.120215,-38.569408)
+P_{369}=(142.737182,-39.200000)
+P_{370}=(144.560729,-39.200000)
+P_{371}=(144.464232,-38.863581)
+P_{372}=(144.902977,-38.193111)
+P_{373}=(145.272099,-38.455618)
+P_{374}=(145.240448,-38.150997)
+P_{375}=(145.078354,-38.107427)
+P_{376}=(144.892998,-38.131857)
+P_{379}=(150.000000,-36.211066)
+P_{380}=(146.964074,-33.900000)
+P_{381}=(146.629899,-36.044782)
+P_{383}=(146.720544,-36.525745)
+P_{384}=(146.639406,-37.038763)
+P_{385}=(147.839387,-37.166473)
+P_{386}=(140.900000,-37.828705)
+P_{387}=(141.603599,-38.072870)
+P_{389}=(140.900000,-36.638882)
+P_{390}=(143.811311,-37.905035)
+P_{391}=(144.208159,-38.075651)
+P_{399}=(144.687680,-36.821510)
+P_{407}=(146.263666,-36.158227)
+P_{416}=(145.285335,-36.624073)
+P_{420}=(145.227689,-36.359087)
+P_{422}=(145.232128,-33.900000)
+P_{423}=(144.234051,-33.900000)
+P_{425}=(144.679468,-37.589121)
+P_{426}=(144.840781,-37.661193)
+P_{427}=(144.846139,-37.660047)
+P_{428}=(144.965588,-37.562964)
+P_{429}=(144.995821,-37.398634)
+P_{430}=(144.774359,-37.308981)
+P_{431}=(143.884187,-37.713530)
+P_{432}=(144.398219,-37.882487)
+P_{433}=(144.406412,-37.879029)
+P_{434}=(144.441709,-37.716635)
+P_{435}=(144.217296,-37.223292)
+P_{436}=(143.867844,-37.504006)
+P_{437}=(143.811481,-38.283198)
+P_{438}=(143.766132,-37.952096)
+P_{442}=(142.694982,-39.200000)
+P_{443}=(142.921603,-39.200000)
+P_{445}=(145.784858,-36.370443)
+P_{446}=(145.753630,-36.047807)
+P_{447}=(145.502486,-35.749090)
+P_{448}=(145.483477,-36.055714)
+P_{449}=(145.574233,-36.181607)
+P_{450}=(145.769295,-36.381992)
+P_{452}=(142.076229,-37.991554)
+P_{453}=(142.419362,-39.200000)
+P_{454}=(142.768249,-39.200000)
+P_{456}=(141.792591,-37.692480)
+P_{457}=(142.348561,-37.344351)
+P_{458}=(142.300961,-37.172645)
+P_{459}=(140.900000,-36.280783)
+P_{460}=(140.900000,-37.008914)
+P_{461}=(141.769259,-37.694816)
+P_{465}=(146.571839,-37.858259)
+P_{466}=(146.717687,-37.558949)
+P_{467}=(146.637860,-37.040887)
+P_{469}=(146.332961,-37.071136)
+P_{474}=(145.537847,-37.424206)
+P_{475}=(145.561869,-37.433093)
+P_{476}=(145.748787,-37.453887)
+P_{477}=(145.457185,-37.351099)
+P_{478}=(145.731869,-36.709367)
+P_{479}=(145.660029,-36.634446)
+P_{480}=(145.288379,-36.642853)
+P_{481}=(145.175239,-36.755133)
+P_{482}=(145.153112,-36.781376)
+P_{483}=(145.324156,-37.275310)
+P_{484}=(143.745609,-36.514046)
+P_{485}=(144.481791,-36.395639)
+P_{486}=(144.645391,-36.005216)
+P_{487}=(144.696945,-35.852251)
+P_{488}=(144.652616,-33.900000)
+P_{489}=(143.676037,-33.900000)
+P_{490}=(143.802878,-38.294630)
+P_{492}=(142.635986,-39.200000)
+P_{493}=(143.314424,-39.200000)
+P_{494}=(143.758289,-38.416472)
+P_{495}=(146.412579,-37.937715)
+P_{496}=(145.838713,-37.722864)
+P_{497}=(145.779484,-38.025013)
+P_{498}=(145.831674,-38.160138)
+P_{499}=(145.913864,-38.196232)
+P_{500}=(146.180681,-38.182427)
+P_{501}=(143.737311,-38.453504)
+P_{503}=(142.474610,-39.200000)
+P_{504}=(143.890943,-39.200000)
+P_{505}=(143.795080,-38.734199)
+P_{506}=(142.719053,-38.703497)
+P_{507}=(142.412177,-39.174696)
+P_{508}=(142.400720,-39.200000)
+P_{509}=(144.127130,-39.200000)
+P_{510}=(143.196513,-37.048156)
+P_{511}=(143.291962,-37.686446)
+P_{512}=(143.440243,-37.556813)
+P_{513}=(143.214881,-37.045168)
+P_{514}=(142.710665,-36.300436)
+P_{515}=(143.721784,-35.618882)
+P_{516}=(144.253885,-33.900000)
+P_{517}=(140.900000,-34.560314)
+P_{518}=(142.701049,-36.301556)
+P_{519}=(141.699117,-35.332894)
+P_{520}=(143.739565,-35.561443)
+P_{521}=(144.667764,-34.567135)
+P_{522}=(144.955468,-33.900000)
+P_{523}=(140.900000,-34.832792)
+P_{524}=(142.411527,-37.797147)
+P_{525}=(142.754076,-38.632360)
+P_{526}=(142.851650,-38.520226)
+P_{527}=(143.070234,-38.114790)
+P_{528}=(143.141606,-37.917375)
+P_{529}=(143.137149,-37.876057)
+P_{530}=(142.786685,-37.438893)
+P_{531}=(142.404662,-37.385093)
+P_{532}=(147.911492,-37.131657)
+P_{533}=(147.983231,-39.200000)
+P_{534}=(150.000000,-36.134022)
+P_{535}=(149.224112,-36.426189)
+Vertex cycles:
+W_{0}=(144.711687,-37.798353)
+\operatorname{polygon}(P_{433},P_{434},P_{148},P_{142},P_{216},P_{217})
+W_{1}=(144.740438,-37.710576)
+\operatorname{polygon}(P_{425},P_{426},P_{166},P_{165},P_{142},P_{148})
+W_{2}=(145.543774,-38.116421)
+\operatorname{polygon}(P_{497},P_{498},P_{241},P_{265},P_{266},P_{258})
+W_{4}=(144.252256,-36.758366)
+\operatorname{polygon}(P_{484},P_{485},P_{399},P_{176},P_{305},P_{306},P_{339})
+W_{7}=(145.161980,-37.610574)
+\operatorname{polygon}(P_{483},P_{477},P_{474},P_{357},P_{210},P_{133},P_{90},P_{172})
+W_{11}=(145.113780,-37.609276)
+\operatorname{polygon}(P_{428},P_{429},P_{172},P_{90},P_{108},P_{109})
+W_{16}=(144.943174,-37.716598)
+\operatorname{polygon}(P_{427},P_{428},P_{109},P_{188},P_{184},P_{169})
+W_{21}=(145.269594,-37.918875)
+\operatorname{polygon}(P_{329},P_{330},P_{195},P_{73},P_{158},P_{159})
+W_{26}=(145.137648,-37.828084)
+\operatorname{polygon}(P_{155},P_{156},P_{120},P_{121},P_{96})
+W_{31}=(144.875597,-37.790831)
+\operatorname{polygon}(P_{167},P_{168},P_{80},P_{146},P_{161})
+W_{36}=(145.189484,-37.992844)
+\operatorname{polygon}(P_{374},P_{375},P_{275},P_{72},P_{73},P_{195},P_{267})
+W_{41}=(145.036639,-37.810998)
+\operatorname{polygon}(P_{277},P_{278},P_{186},P_{187},P_{117})
+W_{46}=(145.133795,-37.928988)
+\operatorname{polygon}(P_{275},P_{276},P_{120},P_{156},P_{157},P_{72})
+W_{52}=(145.129581,-37.820788)
+\operatorname{polygon}(P_{121},P_{122},P_{106},P_{96})
+W_{57}=(144.379424,-38.193629)
+\operatorname{polygon}(P_{432},P_{433},P_{217},P_{218},P_{234},P_{355},P_{356},P_{391})
+W_{62}=(145.175532,-37.936150)
+\operatorname{polygon}(P_{157},P_{158},P_{73},P_{72})
+W_{66}=(144.907070,-37.787679)
+\operatorname{polygon}(P_{184},P_{185},P_{80},P_{168},P_{169})
+W_{70}=(144.897918,-37.825808)
+\operatorname{polygon}(P_{278},P_{279},P_{222},P_{146},P_{80},P_{185},P_{186})
+W_{77}=(145.142741,-37.731835)
+\operatorname{polygon}(P_{133},P_{134},P_{107},P_{108},P_{90})
+W_{84}=(145.144940,-37.745503)
+\operatorname{polygon}(P_{160},P_{155},P_{96},P_{106},P_{107},P_{134})
+W_{90}=(143.604199,-37.722433)
+\operatorname{polygon}(P_{528},P_{529},P_{511},P_{512},P_{303},P_{436},P_{431},P_{390},P_{438})
+W_{94}=(145.053620,-37.760926)
+\operatorname{polygon}(P_{187},P_{188},P_{109},P_{108},P_{107},P_{106},P_{122},P_{117})
+W_{100}=(146.996710,-38.111204)
+\operatorname{polygon}(P_{465},P_{466},P_{271},P_{199},P_{244})
+W_{103}=(142.205687,-36.700923)
+\operatorname{polygon}(P_{523},P_{519},P_{518},P_{363},P_{458},P_{459},P_{103})
+W_{105}=(145.059550,-37.827716)
+\operatorname{polygon}(P_{276},P_{277},P_{117},P_{122},P_{121},P_{120})
+W_{111}=(144.428495,-38.218028)
+\operatorname{polygon}(P_{247},P_{248},P_{234},P_{218})
+W_{116}=(145.328879,-37.830025)
+\operatorname{polygon}(P_{328},P_{329},P_{159},P_{160},P_{134},P_{133},P_{210})
+W_{123}=(141.296434,-38.111671)
+\operatorname{polygon}(P_{386},P_{387},P_{283},P_{140})
+W_{125}=(141.256448,-38.240793)
+\operatorname{polygon}(P_{283},P_{284},P_{114},P_{0},P_{12},P_{140})
+W_{127}=(144.794293,-37.828818)
+\operatorname{polygon}(P_{222},P_{216},P_{142},P_{165},P_{161},P_{146})
+W_{133}=(144.596964,-37.481132)
+\operatorname{polygon}(P_{434},P_{435},P_{305},P_{176},P_{430},P_{425},P_{148})
+W_{140}=(145.166321,-37.849087)
+\operatorname{polygon}(P_{156},P_{155},P_{160},P_{159},P_{158},P_{157})
+W_{146}=(144.854924,-37.772589)
+\operatorname{polygon}(P_{166},P_{167},P_{161},P_{165})
+W_{151}=(144.857303,-37.771802)
+\operatorname{polygon}(P_{426},P_{427},P_{169},P_{168},P_{167},P_{166})
+W_{156}=(144.970506,-37.158543)
+\operatorname{polygon}(P_{482},P_{483},P_{172},P_{429},P_{430},P_{176},P_{399})
+W_{162}=(145.839020,-36.012767)
+\operatorname{polygon}(P_{446},P_{447},P_{422},P_{175},P_{380},P_{381},P_{407})
+W_{167}=(144.958616,-37.783413)
+\operatorname{polygon}(P_{185},P_{184},P_{188},P_{187},P_{186})
+W_{172}=(144.968241,-36.398922)
+\operatorname{polygon}(P_{486},P_{487},P_{420},P_{416},P_{480},P_{481})
+W_{176}=(145.352983,-37.984265)
+\operatorname{polygon}(P_{359},P_{360},P_{258},P_{266},P_{267},P_{195},P_{330})
+W_{180}=(147.906020,-37.764599)
+\operatorname{polygon}(P_{532},P_{533},P_{199},P_{271},P_{385})
+W_{182}=(145.778002,-38.559840)
+\operatorname{polygon}(P_{238},P_{239},P_{223},P_{228})
+W_{186}=(146.041936,-38.446336)
+\operatorname{polygon}(P_{499},P_{500},P_{243},P_{227},P_{223},P_{239})
+W_{189}=(145.362014,-37.818943)
+\operatorname{polygon}(P_{357},P_{358},P_{328},P_{210})
+W_{195}=(144.731672,-37.856460)
+\operatorname{polygon}(P_{320},P_{313},P_{247},P_{218},P_{217},P_{216},P_{222},P_{279})
+W_{202}=(145.777157,-38.671072)
+\operatorname{polygon}(P_{323},P_{324},P_{228},P_{223},P_{227},P_{111},P_{207})
+W_{206}=(145.613814,-38.366014)
+\operatorname{polygon}(P_{324},P_{325},P_{265},P_{241},P_{238},P_{228})
+W_{212}=(144.388373,-38.226648)
+\operatorname{polygon}(P_{354},P_{355},P_{234},P_{248})
+W_{215}=(145.789698,-38.448298)
+\operatorname{polygon}(P_{498},P_{499},P_{239},P_{238},P_{241})
+W_{219}=(146.437383,-38.334093)
+\operatorname{polygon}(P_{500},P_{495},P_{465},P_{244},P_{208},P_{205},P_{243})
+W_{223}=(144.632485,-38.273921)
+\operatorname{polygon}(P_{353},P_{354},P_{248},P_{247},P_{313})
+W_{231}=(145.595258,-37.851879)
+\operatorname{polygon}(P_{496},P_{497},P_{258},P_{360},P_{475},P_{476})
+W_{240}=(145.384080,-38.234540)
+\operatorname{polygon}(P_{373},P_{374},P_{267},P_{266},P_{265},P_{325})
+W_{246}=(147.332711,-37.491239)
+\operatorname{polygon}(P_{466},P_{467},P_{384},P_{385},P_{271})
+W_{250}=(145.075615,-37.947829)
+\operatorname{polygon}(P_{375},P_{376},P_{320},P_{279},P_{278},P_{277},P_{276},P_{275})
+W_{257}=(141.913043,-38.082864)
+\operatorname{polygon}(P_{507},P_{508},P_{284},P_{283},P_{387},P_{461},P_{456},P_{452})
+W_{261}=(143.190084,-36.708648)
+\operatorname{polygon}(P_{518},P_{514},P_{339},P_{306},P_{302},P_{513},P_{510},P_{362},P_{363})
+W_{265}=(143.400047,-37.327258)
+\operatorname{polygon}(P_{512},P_{513},P_{302},P_{303})
+W_{270}=(143.194249,-37.387717)
+\operatorname{polygon}(P_{529},P_{530},P_{362},P_{510},P_{511})
+W_{275}=(143.760505,-37.178894)
+\operatorname{polygon}(P_{435},P_{436},P_{303},P_{302},P_{306},P_{305})
+W_{280}=(145.995602,-36.518261)
+\operatorname{polygon}(P_{478},P_{479},P_{450},P_{445},P_{407},P_{381},P_{383},P_{384},P_{467},P_{469})
+W_{286}=(144.721922,-38.326660)
+\operatorname{polygon}(P_{376},P_{372},P_{322},P_{7},P_{237},P_{370},P_{371},P_{353},P_{313},P_{320})
+W_{293}=(145.038588,-38.372627)
+\operatorname{polygon}(P_{372},P_{373},P_{325},P_{324},P_{323},P_{125},P_{68},P_{316},P_{48},P_{250},P_{204},P_{226},P_{322})
+W_{299}=(145.332612,-37.876148)
+\operatorname{polygon}(P_{358},P_{359},P_{330},P_{329},P_{328})
+W_{303}=(144.002206,-38.104531)
+\operatorname{polygon}(P_{437},P_{438},P_{390},P_{391},P_{356},P_{351})
+W_{308}=(143.320907,-36.145249)
+\operatorname{polygon}(P_{514},P_{515},P_{484},P_{339})
+W_{313}=(143.991742,-38.472416)
+\operatorname{polygon}(P_{494},P_{490},P_{437},P_{351},P_{366})
+W_{319}=(144.071289,-38.416049)
+\operatorname{polygon}(P_{371},P_{366},P_{351},P_{356},P_{355},P_{354},P_{353})
+W_{325}=(145.395364,-37.818804)
+\operatorname{polygon}(P_{474},P_{475},P_{360},P_{359},P_{358},P_{357})
+W_{330}=(142.760263,-37.028979)
+\operatorname{polygon}(P_{530},P_{531},P_{457},P_{458},P_{363},P_{362})
+W_{334}=(143.961120,-38.544885)
+\operatorname{polygon}(P_{509},P_{505},P_{501},P_{494},P_{366},P_{371},P_{370},P_{348},P_{47},P_{249},P_{315})
+W_{339}=(145.117060,-38.262284)
+\operatorname{polygon}(P_{373},P_{372},P_{376},P_{375},P_{374})
+W_{344}=(147.393030,-36.254894)
+\operatorname{polygon}(P_{534},P_{535},P_{383},P_{381},P_{380},P_{8},P_{112},P_{174},P_{17},P_{11},P_{200},P_{2},P_{16},P_{182})
+W_{348}=(147.412413,-36.742342)
+\operatorname{polygon}(P_{535},P_{532},P_{385},P_{384},P_{383})
+W_{352}=(141.386499,-37.852136)
+\operatorname{polygon}(P_{460},P_{461},P_{387},P_{386},P_{67})
+W_{355}=(144.087423,-37.906319)
+\operatorname{polygon}(P_{431},P_{432},P_{391},P_{390})
+W_{361}=(144.908636,-36.441035)
+\operatorname{polygon}(P_{485},P_{486},P_{481},P_{482},P_{399})
+W_{365}=(142.176051,-37.833431)
+\operatorname{polygon}(P_{531},P_{524},P_{452},P_{456},P_{457})
+W_{372}=(145.816881,-36.115027)
+\operatorname{polygon}(P_{445},P_{446},P_{407})
+W_{375}=(145.480239,-36.287541)
+\operatorname{polygon}(P_{448},P_{449},P_{416},P_{420})
+W_{380}=(145.515052,-36.310271)
+\operatorname{polygon}(P_{479},P_{480},P_{416},P_{449},P_{450})
+W_{385}=(145.255531,-36.098080)
+\operatorname{polygon}(P_{521},P_{522},P_{422},P_{447},P_{448},P_{420},P_{487})
+W_{389}=(144.810617,-37.553502)
+\operatorname{polygon}(P_{426},P_{425},P_{430},P_{429},P_{428},P_{427})
+W_{395}=(144.162169,-37.678912)
+\operatorname{polygon}(P_{432},P_{431},P_{436},P_{435},P_{434},P_{433})
+W_{401}=(143.579739,-38.162393)
+\operatorname{polygon}(P_{527},P_{528},P_{438},P_{437},P_{490})
+W_{408}=(145.704444,-36.125910)
+\operatorname{polygon}(P_{446},P_{445},P_{450},P_{449},P_{448},P_{447})
+W_{414}=(142.263050,-37.983481)
+\operatorname{polygon}(P_{524},P_{525},P_{506},P_{507},P_{452})
+W_{418}=(141.833246,-37.285964)
+\operatorname{polygon}(P_{457},P_{456},P_{461},P_{460},P_{137},P_{389},P_{4},P_{459},P_{458})
+W_{423}=(146.110809,-37.679519)
+\operatorname{polygon}(P_{495},P_{496},P_{476},P_{469},P_{467},P_{466},P_{465})
+W_{430}=(145.686477,-37.031883)
+\operatorname{polygon}(P_{477},P_{478},P_{469},P_{476},P_{475},P_{474})
+W_{438}=(145.529859,-36.964845)
+\operatorname{polygon}(P_{478},P_{477},P_{483},P_{482},P_{481},P_{480},P_{479})
+W_{445}=(144.150092,-36.123180)
+\operatorname{polygon}(P_{520},P_{521},P_{487},P_{486},P_{485},P_{484},P_{515})
+W_{450}=(143.543871,-38.308515)
+\operatorname{polygon}(P_{526},P_{527},P_{490},P_{494},P_{501})
+W_{454}=(146.015441,-37.934246)
+\operatorname{polygon}(P_{496},P_{495},P_{500},P_{499},P_{498},P_{497})
+W_{460}=(143.567776,-38.625837)
+\operatorname{polygon}(P_{525},P_{526},P_{501},P_{505},P_{506})
+W_{463}=(143.561968,-38.829424)
+\operatorname{polygon}(P_{506},P_{505},P_{509},P_{124},P_{504},P_{337},P_{493},P_{99},P_{236},P_{285},P_{336},P_{443},P_{347},P_{454},P_{369},P_{141},P_{442},P_{138},P_{492},P_{503},P_{453},P_{508},P_{507})
+W_{467}=(143.298012,-37.372201)
+\operatorname{polygon}(P_{511},P_{510},P_{513},P_{512})
+W_{471}=(143.083467,-35.792994)
+\operatorname{polygon}(P_{519},P_{520},P_{515},P_{514},P_{518})
+W_{475}=(143.150955,-35.190474)
+\operatorname{polygon}(P_{520},P_{519},P_{523},P_{517},P_{1},P_{343},P_{287},P_{192},P_{116},P_{291},P_{489},P_{183},P_{423},P_{516},P_{191},P_{342},P_{488},P_{522},P_{521})
+W_{479}=(142.648082,-37.825566)
+\operatorname{polygon}(P_{525},P_{524},P_{531},P_{530},P_{529},P_{528},P_{527},P_{526})
+W_{487}=(147.960804,-37.762698)
+\operatorname{polygon}(P_{533},P_{532},P_{535},P_{534},P_{379},P_{3},P_{5})
